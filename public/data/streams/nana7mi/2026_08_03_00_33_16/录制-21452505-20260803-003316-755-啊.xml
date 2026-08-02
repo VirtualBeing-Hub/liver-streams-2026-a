@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.0+Branch.tags-v2.18.0.Sha.fbb85583d8ca570d77b88637f105c4984e8231dd
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.0" />
+  <BililiveRecorderRecordInfo roomid="21452505" shortid="0" name="七海Nana7mi" title="啊" areanameparent="单机游戏" areanamechild="主机游戏" start_time="2026-08-03T00:33:16.7570862+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="2.317,1,25,14893055,1785688401642,0,611821,0" user="リセマラ">那确实很累</d>
+  <d p="2.694,1,25,16777215,1785688401937,0,3546926664387359,0" user="可食用鲨鱼">出去收集直播素材了</d>
+  <d p="4.908,1,25,16777215,1785688404547,0,156593006,0" user="其原有鲨">[七海收藏集表情包_爆炸吧]</d>
+  <d p="9.195,1,25,14893055,1785688408512,0,418247581,0" user="山崎春佳">让我看看</d>
+  <d p="10.097,1,25,14893055,1785688410198,0,82918810,0" user="CのDeicider">自从有了中央空调，这几年从来没关过空调</d>
+  <d p="20.529,1,25,16777215,1785688419990,0,12910404,0" user="Syidch">一天三顿打拋饭芒果饭椰奶饭</d>
+  <d p="21.820,4,25,14893055,1785688421756,0,734730,0" user="卟哩卟哩咚">HAPPY</d>
+  <d p="24.824,1,25,14893055,1785688423988,0,39373763,0" user="AceDroidX">[七海收藏集表情包_爆炸吧]</d>
+  <d p="24.824,1,25,16777215,1785688425039,0,452150654,0" user="马赛之橘">牛哇</d>
+  <d p="24.824,1,25,16777215,1785688425131,0,276975960,0" user="_SyTeriri">半个月不播我就死给你看[大哭][大哭][大哭]</d>
+  <d p="25.711,1,25,14893055,1785688425322,0,611821,0" user="リセマラ">法</d>
+  <d p="26.998,1,25,16777215,1785688427071,0,156593006,0" user="其原有鲨">[七海收藏集表情包_爆炸吧]</d>
+  <d p="27.394,1,25,14893055,1785688426779,0,30567,0" user="foxter">我看王师傅游记现在好像那行都去那边了了</d>
+  <d p="28.704,4,25,14893055,1785688428785,0,629787,0" user="闰土with猹">读LLM</d>
+  <d p="29.995,1,25,16777215,1785688429874,0,88492885,0" user="OHHHHhhhmd">哈哈</d>
+  <d p="32.598,1,25,16777215,1785688432758,0,454067565,0" user="意味がないO">哈哈</d>
+  <d p="33.501,1,25,14893055,1785688433001,0,20148542,0" user="集结WZG">哈哈</d>
+  <d p="35.196,1,25,16777215,1785688435145,0,276975960,0" user="_SyTeriri">那我知道是谁了</d>
+  <d p="36.126,1,25,16777215,1785688435213,0,35901629,0" user="seaShide">哈哈</d>
+  <d p="36.126,1,25,14893055,1785688435467,0,3546621700737546,0" user="愚步愚行">哈哈</d>
+  <d p="36.495,1,25,16777215,1785688436220,0,22931270,0" user="生姜般故事">远程办公了说是</d>
+  <d p="37.430,1,25,16772431,1785688437061,0,2205703,0" user="超時空要愛">我恨有钱人</d>
+  <d p="37.430,1,25,14893055,1785688437310,0,896830,0" user="七海Nana7mi单推人">假律师吧，国内律师怎么可能这么玩</d>
+  <d p="38.711,1,25,16777215,1785688438291,0,156593006,0" user="其原有鲨">[七海收藏集表情包_爆炸吧]</d>
+  <d p="39.977,1,25,16777215,1785688439437,0,3493119825808019,0" user="束书数术树">[Mygo表情包_不会吧？]</d>
+  <d p="40.427,1,25,16772431,1785688439461,0,836355,0" user="米糯陶">我恨有钱人</d>
+  <d p="40.427,1,25,14893055,1785688439651,0,7261663,0" user="碳了个酸">法师</d>
+  <d p="40.427,1,25,16777215,1785688440061,0,12713497,0" user="Snapdargon">中国人会飞</d>
+  <d p="41.696,1,25,16777215,1785688441792,0,452150654,0" user="马赛之橘">哈哈</d>
+  <d p="42.599,1,25,16777215,1785688441630,0,494708139,0" user="啊哈2568">英国学法怎么回国</d>
+  <d p="42.997,1,25,16777215,1785688442829,0,1116030865,0" user="电子小人儿">哭哭</d>
+  <d p="43.878,1,25,14893055,1785688443686,0,1293134,0" user="osprofool">8月航班不都取消了</d>
+  <d p="45.213,1,25,16777215,1785688445479,0,35901629,0" user="seaShide">唉富区</d>
+  <d p="47.802,1,25,16777215,1785688447388,0,156593006,0" user="其原有鲨">[七海收藏集表情包_爆炸吧]</d>
+  <d p="48.221,1,25,16777215,1785688447641,0,38433964,0" user="投币侠">哭哭</d>
+  <d p="49.107,1,25,14893055,1785688448444,0,3546621700737546,0" user="愚步愚行">我恨有钱人</d>
+  <d p="49.107,1,25,16777215,1785688448665,0,4045645,0" user="万花名士">去那COSPLAY驻日美军吗</d>
+  <d p="50.400,1,25,14893055,1785688449920,0,611821,0" user="リセマラ">确实潇洒，感觉一直在玩</d>
+  <d p="50.400,1,25,16772431,1785688450470,0,2205703,0" user="超時空要愛">我恨有钱人我恨有钱人</d>
+  <d p="51.704,1,25,16777215,1785688451405,0,1329335,0" user="阳光小睡猫">夏天去琉球吗</d>
+  <d p="53.392,1,25,16777215,1785688453095,0,22931270,0" user="生姜般故事">其实你也可以理论上</d>
+  <d p="54.694,1,25,16777215,1785688453992,0,454067565,0" user="意味がないO">潇洒</d>
+  <d p="55.603,1,25,16777215,1785688454850,0,598915248,0" user="干饭雨">[UPOWER_434334701_比心]</d>
+  <d p="55.603,1,25,14893055,1785688455624,0,1293134,0" user="osprofool">我恨有钱人</d>
+  <d p="55.603,1,25,16777215,1785688455791,0,383754620,0" user="寒山独見君">[七海收藏集表情包_o.0]</d>
+  <d p="55.994,4,25,14893055,1785688455183,0,629787,0" user="闰土with猹">学法的不用上班吗</d>
+  <d p="57.296,1,25,16777215,1785688456548,0,9330075,0" user="゙゙゙゚゚゚゙">我恨有钱­人</d>
+  <d p="60.809,1,25,14893055,1785688459987,0,82918810,0" user="CのDeicider">好羡慕</d>
+  <d p="62.513,1,25,16772431,1785688461573,0,2576987,0" user="笨比小狗">我恨有钱人</d>
+  <d p="62.513,1,25,16777215,1785688462078,0,360235696,0" user="内海贤人_wuzimi">海海看过李狗嗨嘛</d>
+  <d p="66.396,1,25,14893055,1785688466298,0,39373763,0" user="AceDroidX">这个律师是来体验生活的吗</d>
+  <d p="67.705,1,25,16750592,1785688466992,0,2763,0" user="スパラノイア">我恨有钱人</d>
+  <d p="68.623,1,25,16772431,1785688468751,0,2205703,0" user="超時空要愛">外籍航空又没取消</d>
+  <d p="71.192,4,25,14893055,1785688471006,0,233626,0" user="毒舌Praesepe">没case吧 </d>
+  <d p="71.192,1,25,16777215,1785688471188,0,35901629,0" user="seaShide">我恨有钱人</d>
+  <d p="75.519,4,25,14893055,1785688474560,0,388415784,0" user="哇好大一条蛇">百合豚要来了</d>
+  <d p="75.519,1,25,14893055,1785688475171,0,39373763,0" user="AceDroidX">哈哈</d>
+  <d p="77.705,4,25,14893055,1785688477447,0,734730,0" user="卟哩卟哩咚">朋友圈暑期旅游得多吧大概</d>
+  <d p="77.705,1,25,16777215,1785688477418,0,650242746,0" user="Leh0ra">有钱人越来越有钱</d>
+  <d p="78.093,1,25,16777215,1785688477322,0,452150654,0" user="马赛之橘">哈哈</d>
+  <d p="80.314,1,25,14893055,1785688480717,0,3546621700737546,0" user="愚步愚行">哈哈</d>
+  <d p="84.229,1,25,16777215,1785688483653,0,598915248,0" user="干饭雨">[UPOWER_434334701_哇噻]</d>
+  <d p="84.229,1,25,16777215,1785688483784,0,650242746,0" user="Leh0ra">哭哭</d>
+  <d p="87.196,1,25,14893055,1785688486405,0,22397295,0" user="C1e4rl0ve">国内律师挺忙的吧</d>
+  <d p="88.497,1,25,16777215,1785688488628,0,454067565,0" user="意味がないO">哈哈</d>
+  <d p="92.000,1,25,14893055,1785688491961,0,3546621700737546,0" user="愚步愚行">哈哈</d>
+  <d p="92.000,1,25,14893055,1785688492277,0,896830,0" user="七海Nana7mi单推人">国内刚入职几年的律师不可能的，应该就没在工作</d>
+  <d p="92.403,1,25,16777215,1785688492357,0,88492885,0" user="OHHHHhhhmd">哈哈</d>
+  <d p="94.993,1,25,16777215,1785688494212,0,22931270,0" user="生姜般故事">她也当v了吗</d>
+  <d p="97.207,1,25,16777215,1785688496798,0,38634524,0" user="当个大本钟">哈哈</d>
+  <gift ts="97.207" user="窝不是僵尸" uid="335073075" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="97.207,1,25,16777215,1785688497472,0,650242746,0" user="Leh0ra">哈哈</d>
+  <d p="99.835,1,25,14893055,1785688500085,0,611821,0" user="リセマラ">草，还有学习</d>
+  <d p="101.497,1,25,14893055,1785688501570,0,418247581,0" user="山崎春佳">哈哈</d>
+  <d p="102.817,1,25,14893055,1785688502165,0,39373763,0" user="AceDroidX">[七海收藏集表情包_？]</d>
+  <d p="102.817,1,25,14893055,1785688502287,0,399475,0" user="ソウルハーベストゥ">学习说是</d>
+  <d p="102.817,1,25,16777215,1785688502726,0,22931270,0" user="生姜般故事">这不就考研生活吗</d>
+  <d p="103.742,4,25,14893055,1785688503010,0,233626,0" user="毒舌Praesepe">别人的人生 我的梦 </d>
+  <d p="103.742,1,25,16777215,1785688503151,0,281432446,0" user="小壁灯漂流记">我恨有钱人</d>
+  <d p="103.742,1,25,16772431,1785688503246,0,2205703,0" user="超時空要愛">家里环境好吧</d>
+  <d p="107.617,1,25,14893055,1785688507448,0,82918810,0" user="CのDeicider">好羡慕</d>
+  <d p="107.992,1,25,16777215,1785688507092,0,454067565,0" user="意味がないO">潇洒</d>
+  <d p="109.302,1,25,16777215,1785688508404,0,452150654,0" user="马赛之橘">记得二零年你说过她在地铁站帮过别人</d>
+</i>

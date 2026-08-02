@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.0+Branch.tags-v2.18.0.Sha.fbb85583d8ca570d77b88637f105c4984e8231dd
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.0" />
+  <BililiveRecorderRecordInfo roomid="21452505" shortid="0" name="七海Nana7mi" title="啊" areanameparent="单机游戏" areanamechild="主机游戏" start_time="2026-08-03T00:31:36.1834460+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="1.475,1,25,16777215,1785688300138,0,285080823,0" user="魂游精灵">一開一関是比一直開著費電，那也得看是隔了多久</d>
+  <d p="1.898,1,25,8322816,1785688300672,0,2972889,0" user="抹茶生巧米布丁">哈哈</d>
+  <d p="1.898,1,25,65532,1785688300774,0,2014676,0" user="青山Aoyamakun">空调在外面可以提前预定开关的 你用APP提前10分钟开就行了</d>
+  <d p="4.083,1,25,14893055,1785688302979,0,896830,0" user="七海Nana7mi单推人">定时肯定有的</d>
+  <d p="4.083,1,25,14893055,1785688303056,0,1062803503,0" user="AvidBag">搞个定时也可以吧</d>
+  <d p="4.469,1,25,16777215,1785688303201,0,3546775990307170,0" user="七海的便便">富姐</d>
+  <d p="5.786,1,25,14893055,1785688304832,0,1971058,0" user="iAyaneru">我也从来不关</d>
+  <d p="5.786,4,25,14893055,1785688305572,0,629787,0" user="闰土with猹">你租房的啥空调</d>
+  <d p="7.973,1,25,16777215,1785688307640,0,598915248,0" user="干饭雨">吃彩虹糖</d>
+  <d p="8.371,1,25,16777215,1785688307763,0,2515865,0" user="菠萝炒饭加个蛋-">买个小米音箱就行，用红外开</d>
+  <d p="9.313,1,25,16777215,1785688308002,0,20745204,0" user="红_桃_A">四百多也太多了</d>
+  <d p="9.313,1,25,16777215,1785688307978,0,8856724,0" user="毛茸茸协会">出门几小时开着无所谓</d>
+  <d p="9.313,1,25,16777215,1785688308938,0,720201,0" user="囧克">非米家空调可以买个空调伴侣</d>
+  <d p="9.670,1,25,16777215,1785688309045,0,3493297762864065,0" user="银树枝">哈哈</d>
+  <d p="10.595,4,25,14893055,1785688309303,0,383237714,0" user="梵星Meark">小米可以</d>
+  <d p="10.595,1,25,14893055,1785688309498,0,611821,0" user="リセマラ">不是，远程的智能开关</d>
+  <d p="11.888,1,25,14893055,1785688311073,0,611821,0" user="リセマラ">物理的</d>
+  <d p="13.180,1,25,16777215,1785688312387,0,156593006,0" user="其原有鲨">[七海收藏集表情包_？]</d>
+  <d p="13.570,1,25,16777215,1785688313144,0,35257684,0" user="無形残香">怎么不行，什么史前空调</d>
+  <d p="14.884,1,25,16777215,1785688313406,0,12713497,0" user="Snapdargon">远程和定时啊</d>
+  <d p="14.884,1,25,14893055,1785688314411,0,30567,0" user="foxter">弄个小米音箱就行</d>
+  <d p="16.192,1,25,8322816,1785688314868,0,2972889,0" user="抹茶生巧米布丁">思考</d>
+  <d p="16.192,1,25,65532,1785688315923,0,2014676,0" user="青山Aoyamakun">你空调下方应该有个二维码 扫码下载APP就</d>
+  <d p="16.192,4,25,14893055,1785688315897,0,629787,0" user="闰土with猹">加个空调伴侣</d>
+  <d p="17.470,1,25,16777215,1785688317033,0,2515865,0" user="菠萝炒饭加个蛋-">空调伴侣也可以</d>
+  <d p="18.392,4,25,14893055,1785688317426,0,47200038,0" user="浅陌mio">定个时</d>
+  <d p="18.393,1,25,8322816,1785688317541,0,901824,0" user="熬夜的秃子">买个定时</d>
+  <d p="18.394,1,25,16777215,1785688317709,0,3657532,0" user="星辰星晨星">。</d>
+  <d p="18.394,1,25,8322816,1785688317825,0,17044620,0" user="宵小笑淆">哦，定时开关？</d>
+  <d p="18.779,1,25,16777215,1785688318203,0,522243687,0" user="sharari">哈哈</d>
+  <d p="21.385,1,25,16777215,1785688320046,0,3546926664387359,0" user="可食用鲨鱼">你差个空调伴侣就可以了，等于带wifi的遥控器</d>
+  <d p="21.385,1,25,14893055,1785688320648,0,7261663,0" user="碳了个酸">哈哈</d>
+  <d p="22.303,1,25,16777215,1785688321340,0,720201,0" user="囧克">空调伴侣</d>
+  <d p="22.303,4,25,14893055,1785688321861,0,383237714,0" user="梵星Meark">买个小米就可以了</d>
+  <d p="22.303,1,25,14893055,1785688321612,0,6716509,0" user="Night_lapin">装个小米智能开关</d>
+  <d p="23.612,1,25,16777215,1785688322835,0,494708139,0" user="啊哈2568">空调伴侣好像可以</d>
+  <d p="23.969,1,25,16777215,1785688322957,0,3493297762864065,0" user="银树枝">哈哈</d>
+  <d p="24.878,1,25,14893055,1785688323665,0,3546621700737546,0" user="愚步愚行">定时很简单的</d>
+  <d p="25.267,1,25,16777215,1785688324515,0,98113990,0" user="10维膜">有红外小爱</d>
+  <d p="26.588,1,25,16777215,1785688325239,0,22931270,0" user="生姜般故事">能倒是，搞个远程的遥控器也行</d>
+  <d p="26.588,1,25,16777215,1785688326025,0,522243687,0" user="sharari">定时</d>
+  <d p="27.454,1,25,14893055,1785688326973,0,3546621700737546,0" user="愚步愚行">哈哈</d>
+  <d p="30.067,1,25,16777215,1785688329917,0,276030104,0" user="凯文德布劳内kdb">买个小米的空调伴侣就行，50米</d>
+  <d p="30.493,1,25,16777215,1785688329108,0,276975960,0" user="_SyTeriri">定时啊</d>
+  <d p="30.493,1,25,16777215,1785688329273,0,35257684,0" user="無形残香">加个智能开关</d>
+  <d p="30.493,4,25,14893055,1785688329712,0,629787,0" user="闰土with猹">买一个接插座上</d>
+  <d p="32.734,1,25,14893055,1785688331210,0,20148542,0" user="集结WZG">开关有远程的</d>
+  <d p="32.734,1,25,16777215,1785688331265,0,15631234,0" user="飘雪国度">有智能插座，或者搞个联网的红外遥控也可以</d>
+  <d p="32.734,1,25,14893055,1785688331468,0,82918810,0" user="CのDeicider">搞个外设</d>
+  <d p="32.734,1,25,14893055,1785688332454,0,14743,0" user="这是一个id">本质就是个遥控器</d>
+  <d p="34.369,1,25,16777215,1785688333292,0,1322603265,0" user="L00FEHT">小米</d>
+  <d p="35.270,1,25,16777215,1785688334679,0,269004,0" user="GG丶">哈哈</d>
+  <d p="35.688,1,25,14893055,1785688334987,0,30567,0" user="foxter">智能空调听着就像能远程开的啊</d>
+  <d p="35.688,1,25,16777215,1785688335253,0,3546926664387359,0" user="可食用鲨鱼">简单 傻瓜式的你买个就能会</d>
+  <d p="39.175,4,25,14893055,1785688338130,0,233626,0" user="毒舌Praesepe">定时遥控器按按不就行了 </d>
+  <d p="40.478,1,25,14893055,1785688340125,0,4864248,0" user="三只小居合">豆包豆包</d>
+  <d p="40.870,1,25,14893055,1785688339824,0,4525478,0" user="内田森">可以的，买一个小米空调伴侣插上就行</d>
+  <d p="42.177,1,25,16777215,1785688341438,0,266680480,0" user="企摆摆">手机自带的智能遥控有吗</d>
+  <sc ts="43.197" user="超時空要愛" uid="2205703" price="30" time="60">离房间超过2小时就要关了，不然会比开关还耗电</sc>
+  <d p="44.393,1,25,8322816,1785688343713,0,17044620,0" user="宵小笑淆">我之前实习也用过定时开关，挺方便的</d>
+  <d p="45.702,1,25,16777215,1785688345024,0,494708139,0" user="啊哈2568">米家空调伴侣</d>
+  <d p="46.092,1,25,14893055,1785688344654,0,39373763,0" user="AceDroidX">带wifi的红外遥控器</d>
+  <d p="46.092,1,25,65532,1785688344695,0,2014676,0" user="青山Aoyamakun">你空调下方应该有个二维码 扫码下载官方APP 里面有说</d>
+  <d p="46.094,1,25,16777215,1785688345793,0,12713497,0" user="Snapdargon">老松下可能没这种功能</d>
+  <d p="48.670,1,25,16777215,1785688348085,0,3493297762864065,0" user="银树枝">哈哈</d>
+  <d p="51.292,1,25,16777215,1785688350034,0,325525288,0" user="海力乱象">看不到海子姐的眼睛了[委屈][委屈][委屈][委屈]</d>
+  <d p="51.292,1,25,8322816,1785688350665,0,2972889,0" user="抹茶生巧米布丁">pien</d>
+  <d p="53.504,1,25,14893055,1785688352447,0,3546621700737546,0" user="愚步愚行">哈哈</d>
+  <d p="54.127,1,25,16777215,1785688352348,0,35257684,0" user="無形残香">可以的</d>
+  <d p="54.127,1,25,16777215,1785688353186,0,22931270,0" user="生姜般故事">都行吧</d>
+  <d p="54.786,1,25,16777215,1785688353881,0,8856724,0" user="毛茸茸协会">中央空调不行吧</d>
+  <d p="55.170,1,25,16777215,1785688353810,0,454067565,0" user="意味がないO">可以</d>
+  <d p="56.111,1,25,16777215,1785688354783,0,20745204,0" user="红_桃_A">？</d>
+  <d p="56.111,1,25,14893055,1785688355204,0,611821,0" user="リセマラ">什么空调都一样</d>
+  <d p="57.768,1,25,16777215,1785688357272,0,20239961,0" user="姜發財呀">有的可以你试试</d>
+  <d p="58.719,1,25,8322816,1785688357942,0,901824,0" user="熬夜的秃子">带红外遥控的就行，小爱音箱我记得就可以</d>
+  <gift ts="58.719" user="さかきち_" uid="3546812673690409" giftname="粉丝团灯牌" giftcount="1" />
+  <d p="60.379,1,25,14893055,1785688359927,0,4525478,0" user="内田森">空调伴侣就是在原本的插座上插的</d>
+  <d p="61.271,1,25,16777215,1785688360454,0,494708139,0" user="啊哈2568">中央空调？那不行吧</d>
+  <d p="61.678,4,25,14893055,1785688361221,0,629787,0" user="闰土with猹">中央的肯定耗电</d>
+</i>
