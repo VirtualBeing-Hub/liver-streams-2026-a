@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-09-24T18:04:29.743Z"
 sourceHighlight: "录制-25034104-20260924-200106-891-鬼武者0.0_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 酒吞那段真的把我笑到捶桌，前面还嘴硬说绝不喝血，最后手都抖了，居然还是一条血拿下！明前奶绿边慌边打还惦记着帅气一闪，结果boss先没了，太可爱啦。奶糖花就是相信你能过，辛苦啦，快好好休息呀。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -383,12 +387,3 @@ attempts:
 [352m] 🔥 [UNKNOWN] 谁要likealways的s你那。[UNKNOWN] 姐我要回来了花店会发金条吗。[UNKNOWN] 上二楼也可以爱来自地狱。[UNKNOWN] De是哪里呀。[UNKNOWN] 我知道LADE是哪里啊。[UNKNOWN] 地e是哪里啊。[UNKNOWN] 哦德国吗。[UNKNOWN] 你的话德国在德国上学吗  (💬 无语(x20) / 晚安晚安(x3) / 德国(x3) / ？？？ / 套子)
 [352m] 🔥 [UNKNOWN] 德国就说老难毕业了嗯。[UNKNOWN] 摸摸你啊有机会就回来哦。[UNKNOWN] 有机会记得回来我都没润。[UNKNOWN] 你不许走。[UNKNOWN] 虽然阿b已经给我发好了。[UNKNOWN] 什么护照套子什么行李箱妈。[UNKNOWN] 什么逼动静啊。[UNKNOWN] 你要认去哪儿千古应许之地  (💬 无语(x27) / 何bgm(x4) / 晚安晚安(x3) / [明前奶绿收藏集表情包_惊](x3) / ？？？)
 [353m] 🔥 [UNKNOWN] 什么必动静啊。[UNKNOWN] Boyboyboyboyboyboynextdoor  (💬 无语(x12) / 晚安晚安(x5) / 8888(x3) / 8888888(x3) / 888888888(x3))
-
----
-
-分镜1：剪贴画小屏幕显示《鬼武者》的实际游玩画面，明前奶绿坐在屏幕前握手柄，灰发绿挑染和心形呆毛清晰可见；屏幕内容是游戏画面，不是本场互动角色。
-分镜2：战斗中她专注躲避并挥刀，游戏里的酒吞童子 Boss 在屏幕另一侧；周围点缀小型剑光和弹幕气泡“再来！”。
-分镜3：Boss 战胜利后，她举起手柄欢呼，游戏画面停在战斗结束处；角落小字“光荣下播”。
-{"kind":"reference","timestampsSeconds":[7140],"referenceUsage":"核对《鬼武者》的代表性实机画面与界面；屏幕内人物属于游戏内容，不是本场互动角色","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[18540,20160],"referenceUsage":"核对游戏 Boss 战中角色、敌人数量与战斗过程；屏幕内人物属于游戏内容，不是本场互动角色","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[20160,20220],"referenceUsage":"核对 Boss 战结束及胜利后的游戏画面状态","captureMode":"sheet"}

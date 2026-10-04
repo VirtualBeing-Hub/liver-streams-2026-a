@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-01T19:46:19.521Z"
 sourceHighlight: "录制-21452505-20261001-220305-909-鬼武者马桶通通通_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 从“见好就收”到最后真把源义经拿下，这趟鬼武者马桶之旅太有记忆点啦！前面练弹开练到手忙脚乱，过关那刻脆鲨也跟着松了口气。海子姐今天播了好久，辛苦啦，喜欢你认真又可爱的样子，快好好歇歇呀。
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -268,12 +272,3 @@ attempts:
 [332m] 🔥 [UNKNOWN] 明天晚上再见晚安晚安琳妮。[UNKNOWN] 拜。[UNKNOWN] 那一层那一层呢。[UNKNOWN] 谢谢玻璃玻璃洞的那种冰淇淋茶。[UNKNOWN] 谢谢晚安哦第一是阿根廷。[UNKNOWN] 第二是葡萄牙呜哎呦居然成功回来。[UNKNOWN] 我身上好多那种被小虫子咬的痒的红点。[UNKNOWN] 那不是蚊子快  (💬 晚安晚安(x4) / 8888 / 888888 / 888888888 / night)
 [333m] 🔥 [UNKNOWN] 那是但是虫子咬的那种痒的小红点。[UNKNOWN] 我靠不知道啥虫子哦。[UNKNOWN] DANEELTHEcreep。[UNKNOWN] 晚安。[UNKNOWN] 马赛只是晚安CADJ赛的晚安。[UNKNOWN] 熬夜问注威古斯晚安。[UNKNOWN] 他是个酸碗哦谢谢钢蹦。[UNKNOWN] 谢谢钢蹦  (💬 night night！(x4) / 哭哭(x3) / 打CALL(x3) / night night！！(x3) / 晚安晚安)
 [333m] 🔥 [UNKNOWN] 那明年哪日再晚安拜。[UNKNOWN] 拜小拜nightet  (💬 night night！(x4) / 打CALL(x3) / night night！！(x3) / 哭哭 / 88)
-
----
-
-分镜1：剪贴画小格，棕发金瞳的七海Nana7mi坐在屏幕前，鲨鱼尾巴紧张绷起；屏幕清楚呈现《鬼武者》战斗画面，她反复闪避、挥刀迎战，旁边点缀小小的“闪！”拟声字。
-分镜2：她在《鬼武者》Boss战中手忙脚乱地躲招、喝药、寻找反击时机，屏幕里的Boss步步紧逼；脆鲨们围着屏幕捏汗。角落用醒目短字“过了！”表现终于通关。
-分镜3：通关后，七海Nana7mi看着游戏里的熊猫玩偶装造型，鲨鱼尾巴轻轻翘起；屏幕中的熊猫装只作为《鬼武者》游戏内容。脆鲨在旁边挥手道晚安，背景收成安静的深夜直播间。
-{"kind":"reference","timestampsSeconds":[6780],"referenceUsage":"核对《鬼武者》的可见游戏身份与代表性战斗画面，以及游戏内角色、敌人和界面外观。","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[13680,13740],"referenceUsage":"核对《鬼武者》Boss战末段到击败后的连续过程与结果；画面中的敌人和战斗角色属于游戏屏幕内容，不是本场互动角色。","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[15240],"referenceUsage":"核对《鬼武者》通关后游戏画面里的熊猫玩偶装外观；该造型属于屏幕内容，不是本场互动角色。","captureMode":"individual"}

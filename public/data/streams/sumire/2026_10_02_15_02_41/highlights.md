@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-02T07:18:55.058Z"
 sourceHighlight: "录制-1727076670-20261002-150241-098-谢谢礼物和sc捏_AI_HIGHLIGHT.txt"
@@ -30,6 +32,8 @@ attempts:
 
 ---
 
+## Highlight
+
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
 【参与者】计划参与: 无
@@ -58,12 +62,3 @@ attempts:
 [9m] 🔥 [UNKNOWN] 感觉肚皮感觉肚皮被露出来了。[UNKNOWN] 真的最薄弱的地方被露出来了  (💬 盯盯(x12) / 求求你了🥺(x9) / 求求你了(x6) / 问号(x4) / ？？？)
 [9m] 🔥 [灰泽满Hazel] 笨宝贝宝小货你们要干嘛呀  (💬 盯盯(x8) / 求求你了🥺(x6) / 求求你了 / 别不露 / 什么情况？！什么情况？！)
 [9m] 🔥 [UNKNOWN] 我笨毛我是无语。[UNKNOWN] 哎下下这是果酱小鱼干胆。[UNKNOWN] 谢谢求求你了。[UNKNOWN] 好事情。[UNKNOWN] 哎呀我下  (💬 盯盯(x5) / 求求你了🥺(x5) / 求求你辣，堇堇妈妈 / 看看肚皮，求求了 / 求求你了，好枝堇，别下播好吗。。。🥹🥹🥹)
-
----
-
-分镜1：午后直播桌前，枝堇独自对着礼物与SC提示挥手致谢；屏幕边缘点缀小小礼物图标，不出现可读人名。
-分镜2：聊天气泡密密排开，枝堇被起哄逗得手足无措，抬手挡住镜头，旁边用小字写“别这样！”
-分镜3：枝堇捂脸缩在桌后，聊天气泡像浪一样涌来；角落用醒目小字写“氧气直播间？”。
-{"kind":"reference","timestampsSeconds":[300],"referenceUsage":"核对直播画面中是否有可见的礼物或SC提示，以及提示的数量与样式","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[420],"referenceUsage":"核对枝堇本人在直播画面中的可见外观与直播桌前姿态，不加入其他互动角色","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[540],"referenceUsage":"核对该时刻枝堇与聊天画面的可见状态，不把聊天提及的人物画成本场角色","captureMode":"individual"}

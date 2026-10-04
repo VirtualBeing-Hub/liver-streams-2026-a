@@ -1,3 +1,5 @@
+## 晚安回复
+
 ---
 generatedAt: "2026-10-03T16:39:28.237Z"
 sourceHighlight: "录制-30655190-20261003-210300-111-【Day3】水友超级变色龙⭐_AI_HIGHLIGHT.txt"
@@ -29,6 +31,8 @@ attempts:
 涂鸦躲猫猫这场笑死我了，开局还认真研究怎么藏，后面居然能把自己藏到吹半天口哨才拿8分，纯正躲猫猫选手捏；中途还切错模式，赶紧补开一局，忙得团团转。后面画小皮鞋和聊舰礼也好有意思，结果肚肚不舒服，只能匆匆收播。弥月快去休息、照顾好自己呀，今天辛苦啦，晚安～
 
 ---
+
+## Highlight
 
 【摘要】(保留率: 前35%热度 + 10%随机)
 ---
@@ -167,12 +171,3 @@ attempts:
 [191m] 🔥 [UNKNOWN] 叶江大人家的哥膊我喜欢你。[UNKNOWN] 谢你喜欢我。[UNKNOWN] 祝位这个这个大展拜拜大展。[UNKNOWN] 拜拜啦。[UNKNOWN] 哈哈呵呵我习惯谁的甜。[UNKNOWN] miybagsta嗯。[UNKNOWN] 天意妈毛的躲过你的路。[UNKNOWN] Tellmeyoukidty带你游洒  (💬 呃呃(x18) / prpr(x6) / 🚽：来嘛！拉嘛！🚽：来嘛！拉嘛！🚽：来嘛！拉嘛！(x5) / 噗呲噗呲🐷嗷∽噗呲噗呲🐷嗷∽噗呲噗呲🐷嗷∽噗呲噗呲🐷嗷∽(x4) / 冒尖了(x3))
 [192m] 🔥 [UNKNOWN] 洒吧。[UNKNOWN] 嗯我独立的寂寞需要万谁。[UNKNOWN] 嗯狂怒一个人嗯甜蜜。[UNKNOWN] 我阿gsta啊阿弥多那个嗯多哭。[UNKNOWN] 你一顾各自不好听快走啊。[UNKNOWN] 发财吧。[UNKNOWN] 嗯。[UNKNOWN] 寂寞莫寂寞嘎嘎牙哥格列格德看如今提米。[UNKNOWN] 诺塔没你  (💬 呃呃(x6) / 🚽：来嘛！拉嘛！🚽：来嘛！拉嘛！🚽：来嘛！拉嘛！(x3) / "看好了donk，这才叫大拉"弥月怪叫着在厕所发力(x3) / 噗呲噗呲嗷 / 拉起走嘛🚽拉起走嘛🚽拉起走嘛🚽)
 [192m] 🔥 [UNKNOWN] 而到。[UNKNOWN] 用不过努力的你觉得哭得到闹到的目的去。[UNKNOWN] 你一大怒。[UNKNOWN] 一某个人我的梦FK。[UNKNOWN] Hello。[UNKNOWN] 我的梦霍西哥或基督嘟day。[UNKNOWN] 谢谢你。[UNKNOWN] 嗯哈  (💬 prpr(x4) / 马上回来 / 呃呃 / 咋这样 / 啥意思)
-
----
-
-分镜1：剪贴画式游戏开场，兔川弥月戴兔耳坐在《超级变色龙》游戏画面前，和水友进入涂鸦躲藏局；屏幕只呈现经截图核对的游戏标题与界面。
-分镜2：她一边给藏身处涂色，一边留意哨声寻找躲藏者；用分开的游戏画面表现“藏”与“找”，角落小字：“听声找人”。
-分镜3：游戏画面淡出，弥月聊到舰长礼物擦手巾的起订数量，旁边画一条折叠小毛巾和问号气泡；不画成已制作或已发放的礼物。
-{"kind":"reference","timestampsSeconds":[500],"referenceUsage":"核对《超级变色龙》的标题或代表性玩法界面，确保画面是本场实际游玩的游戏。","captureMode":"individual"}
-{"kind":"reference","timestampsSeconds":[4289,4301],"referenceUsage":"核对游戏中正在涂色、布置躲藏外观的画面状态。","captureMode":"sheet"}
-{"kind":"reference","timestampsSeconds":[10560,10578],"referenceUsage":"核对谈到擦手巾舰长礼物及起订数量时的直播画面；不据此表现礼物已制作或发放。","captureMode":"sheet"}
