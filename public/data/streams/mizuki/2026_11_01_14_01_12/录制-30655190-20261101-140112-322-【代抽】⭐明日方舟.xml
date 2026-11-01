@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="#s"?>
+<i>
+  <!--
+mikufans录播姬 2.18.1-codex-danmaku-reconnect-singleflight.1+22.Branch.codex-danmaku-reconnect-singleflight.Sha.d7fd76001d74eb4aa01441c7793be8d779309d55
+https://rec.danmuji.org/user/danmaku/
+本文件的弹幕信息兼容mikufans主站视频弹幕XML格式
+本XML自带样式可以在浏览器里打开（推荐使用Chrome）
+
+sc 为SuperChat
+gift为礼物
+guard为上船
+
+attribute "raw" 为原始数据
+-->
+  <chatserver>chat.bilibili.com</chatserver>
+  <chatid>0</chatid>
+  <mission>0</mission>
+  <maxlimit>1000</maxlimit>
+  <state>0</state>
+  <real_name>0</real_name>
+  <source>0</source>
+  <BililiveRecorder version="2.18.1-codex-danmaku-reconnect-singleflight.1+22" />
+  <BililiveRecorderRecordInfo roomid="30655190" shortid="0" name="弥月Mizuki" title="【代抽】⭐明日方舟" areanameparent="虚拟主播" areanamechild="虚拟日常" start_time="2026-11-01T14:01:12.3239027+08:00" />
+  <BililiveRecorderXmlStyle><z:stylesheet version="1.0" id="s" xml:id="s" xmlns:z="http://www.w3.org/1999/XSL/Transform"><z:output method="html"/><z:template match="/"><html><meta name="viewport" content="width=device-width"/><title>mikufans录播姬弹幕文件 - <z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></title><style>body{margin:0}h1,h2,p,table{margin-left:5px}table{border-spacing:0}td,th{border:1px solid grey;padding:1px}th{position:sticky;top:0;background:#4098de}tr:hover{background:#d9f4ff}div{overflow:auto;max-height:80vh;max-width:100vw;width:fit-content}</style><h1><a href="https://rec.danmuji.org">mikufans录播姬</a>弹幕XML文件</h1><p>本文件不支持在 IE 浏览器里预览，请使用 Chrome Firefox Edge 等浏览器。</p><p>文件用法参考文档 <a href="https://rec.danmuji.org/user/danmaku/">https://rec.danmuji.org/user/danmaku/</a></p><table><tr><td>录播姬版本</td><td><z:value-of select="/i/BililiveRecorder/@version"/></td></tr><tr><td>房间号</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@roomid"/></td></tr><tr><td>主播名</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@name"/></td></tr><tr><td>录制开始时间</td><td><z:value-of select="/i/BililiveRecorderRecordInfo/@start_time"/></td></tr><tr><td><a href="#d">弹幕</a></td><td>共<z:value-of select="count(/i/d)"/>条记录</td></tr><tr><td><a href="#guard">上船</a></td><td>共<z:value-of select="count(/i/guard)"/>条记录</td></tr><tr><td><a href="#sc">SC</a></td><td>共<z:value-of select="count(/i/sc)"/>条记录</td></tr><tr><td><a href="#gift">礼物</a></td><td>共<z:value-of select="count(/i/gift)"/>条记录</td></tr></table><h2 id="d">弹幕</h2><div id="dm"><table><tr><th>用户名</th><th>出现时间</th><th>用户ID</th><th>弹幕</th><th>参数</th></tr><z:for-each select="/i/d"><tr><td><z:value-of select="@user"/></td><td></td><td></td><td><z:value-of select="."/></td><td><z:value-of select="@p"/></td></tr></z:for-each></table></div><script>Array.from(document.querySelectorAll('#dm tr')).slice(1).map(t=>t.querySelectorAll('td')).forEach(t=>{let p=t[4].textContent.split(','),a=p[0];t[1].textContent=`${(Math.floor(a/60/60)+'').padStart(2,0)}:${(Math.floor(a/60%60)+'').padStart(2,0)}:${(a%60).toFixed(3).padStart(6,0)}`;t[2].innerHTML=`&lt;a target=_blank rel="nofollow noreferrer" href="https://space.bilibili.com/${p[6]}"&gt;${p[6]}&lt;/a&gt;`})</script><h2 id="guard">舰长购买</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>舰长等级</th><th>购买数量</th><th>出现时间</th></tr><z:for-each select="/i/guard"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@level"/></td><td><z:value-of select="@count"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="sc">SuperChat 醒目留言</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>内容</th><th>显示时长</th><th>价格</th><th>出现时间</th></tr><z:for-each select="/i/sc"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="."/></td><td><z:value-of select="@time"/></td><td><z:value-of select="@price"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div><h2 id="gift">礼物</h2><div><table><tr><th>用户名</th><th>用户ID</th><th>礼物名</th><th>礼物数量</th><th>出现时间</th></tr><z:for-each select="/i/gift"><tr><td><z:value-of select="@user"/></td><td><a rel="nofollow noreferrer"><z:attribute name="href"><z:text>https://space.bilibili.com/</z:text><z:value-of select="@uid" /></z:attribute><z:value-of select="@uid"/></a></td><td><z:value-of select="@giftname"/></td><td><z:value-of select="@giftcount"/></td><td><z:value-of select="@ts"/></td></tr></z:for-each></table></div></html></z:template></z:stylesheet></BililiveRecorderXmlStyle>
+  <d p="1.179,4,25,16777215,1793512874399,0,1464721816,0" user="弥月家的暮星">快去吃饭吧</d>
+  <d p="1.781,1,25,16777215,1793512875116,0,472782,0" user="无能狂鹿人">prpr</d>
+  <d p="1.782,1,25,14893055,1793512875253,0,19871,0" user="狮堂真奈Official">prpr</d>
+  <d p="5.057,1,25,16777215,1793512878151,0,44822445,0" user="只是一般路过的磨刀石">88888</d>
+  <d p="5.057,4,25,14893055,1793512879068,0,2403744,0" user="律归柃">prpr</d>
+  <d p="6.427,1,25,16777215,1793512879412,0,7820347,0" user="月落满空山">吃一个小时猪脚饭</d>
+  <d p="6.427,1,25,14893055,1793512880243,0,390383927,0" user="水长东_-">88888888</d>
+  <d p="6.909,1,25,14893055,1793512881167,0,19871,0" user="狮堂真奈Official">外卖到了吗</d>
+  <d p="9.592,1,25,14893055,1793512883676,0,98657670,0" user="R1der-">快去吃饭吧</d>
+  <d p="10.856,1,25,16777215,1793512884202,0,13899281,0" user="laffey_s">一觉睡到晚上</d>
+  <d p="10.856,4,25,14893055,1793512884508,0,8073390,0" user="貮叁三">prpr</d>
+  <d p="10.857,1,25,14893055,1793512884875,0,19871,0" user="狮堂真奈Official">8888</d>
+  <d p="12.928,1,25,16777215,1793512886234,0,438729147,0" user="无梦醒不来">吃饭去吧</d>
+  <d p="12.940,1,25,14893055,1793512886759,0,291150514,0" user="弥月家的波加曼0w0">888888</d>
+  <d p="13.447,1,25,16777215,1793512886653,0,36248355,0" user="星舟游闲">别休了，直接来</d>
+  <d p="13.493,1,25,14893055,1793512887408,0,98657670,0" user="R1der-">prpr</d>
+  <d p="14.154,4,25,14893055,1793512887508,0,31703030,0" user="脑子不是很好用">8888888</d>
+  <d p="14.154,1,25,16777215,1793512888041,0,13296717,0" user="贞德喜欢礼">prpr</d>
+  <d p="14.154,1,25,14893055,1793512888219,0,4588306,0" user="星空虚幻">勤奋弥</d>
+  <d p="14.722,1,25,16777215,1793512888375,0,437519190,0" user="希夏海月">prpr</d>
+  <gift ts="15.488" user="弥月家的神楽辉月" uid="3808090" giftname="比心" giftcount="1" />
+  <d p="15.493,4,25,16777215,1793512889555,0,1464721816,0" user="弥月家的暮星">8888888</d>
+  <d p="16.120,1,25,14893055,1793512889971,0,67809378,0" user="黑听的来了">prpr</d>
+  <d p="16.121,1,25,16777215,1793512889988,0,472782,0" user="无能狂鹿人">别给我弥神累🐭了</d>
+  <d p="16.752,1,25,16777215,1793512889869,0,438729147,0" user="无梦醒不来">88888</d>
+  <d p="16.753,1,25,16777215,1793512890424,0,32780119,0" user="薇尔莉特ソ">拜拜</d>
+  <d p="16.753,1,25,16777215,1793512891000,0,70556424,0" user="acidicanila">prpr</d>
+  <d p="16.754,1,25,14893055,1793512891033,0,39411645,0" user="弥月家的Fhamdraws">胶黏</d>
+  <d p="16.754,1,25,16777215,1793512891158,0,4998601,0" user="依露Iruvard">prpr</d>
+  <d p="18.040,1,25,16777215,1793512891678,0,3706998017231307,0" user="snowtmew">pnq</d>
+  <d p="18.676,1,25,14893055,1793512892181,0,255783698,0" user="Alicia14">prpr</d>
+  <d p="18.737,1,25,16777215,1793512892558,0,249060473,0" user="齍彧">啥意思</d>
+  <d p="18.737,1,25,16777215,1793512892691,0,671300897,0" user="三时z2Z">888888</d>
+  <d p="20.648,4,25,14893055,1793512894222,0,10077603,0" user="桃濑弥月家今天的饭">888888888</d>
+  <d p="20.657,1,25,16777215,1793512894281,0,84517019,0" user="電子tako">888888</d>
+  <d p="20.657,4,25,14893055,1793512894529,0,13423917,0" user="血小溅丶">快去吧宝宝</d>
+  <d p="21.256,1,25,16777215,1793512894406,0,437519190,0" user="希夏海月">prpr</d>
+  <d p="21.257,1,25,16777215,1793512895022,0,3159075,0" user="可可可可可可可酱">prpr</d>
+  <d p="21.944,1,25,14893055,1793512895070,0,4588306,0" user="星空虚幻">prpr</d>
+  <d p="21.945,1,25,16777215,1793512895311,0,13296717,0" user="贞德喜欢礼">拜拜拜拜</d>
+  <d p="22.544,1,25,14893055,1793512896024,0,364882474,0" user="-FisHo_o">prpr</d>
+  <d p="22.545,1,25,16777215,1793512896037,0,523188968,0" user="HsiBear">iceb</d>
+  <d p="24.521,1,25,16777215,1793512897817,0,84517019,0" user="電子tako">prpr</d>
+  <d p="26.405,1,25,16777215,1793512899534,0,472782,0" user="无能狂鹿人">prpr</d>
+  <d p="28.412,1,25,14893055,1793512901811,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="29.064,1,25,16777215,1793512902607,0,13899281,0" user="laffey_s">快去吃饭吧</d>
+  <d p="31.064,4,25,14893055,1793512904203,0,15152020,0" user="弥月家的ペルシア">prpr</d>
+  <d p="31.065,4,25,16777215,1793512905171,0,1464721816,0" user="弥月家的暮星">去休息吧</d>
+  <d p="33.665,1,25,14893055,1793512906718,0,39411645,0" user="弥月家的Fhamdraws">好可爱</d>
+  <d p="34.212,1,25,16777215,1793512908472,0,437519190,0" user="希夏海月">prpr</d>
+  <d p="38.144,1,25,16777215,1793512911793,0,523188968,0" user="HsiBear">prpr</d>
+  <d p="38.809,1,25,14893055,1793512913192,0,4588306,0" user="星空虚幻">小弥好可爱</d>
+  <d p="40.146,1,25,16777215,1793512913611,0,180324246,0" user="r3dfz1j1">prpr</d>
+  <d p="42.002,1,25,16777215,1793512915803,0,36248355,0" user="星舟游闲">拜拜</d>
+  <d p="42.744,1,25,16777215,1793512916226,0,436389003,0" user="Folia_117">prpr</d>
+  <d p="42.745,1,25,14893055,1793512916835,0,394084631,0" user="无人气的雷鼓">prpr</d>
+  <d p="44.063,4,25,16777215,1793512918307,0,1464721816,0" user="弥月家的暮星">prpr</d>
+  <d p="44.599,1,25,16777215,1793512918089,0,443959095,0" user="一加仑彩虹">prpr</d>
+  <d p="45.916,1,25,14893055,1793512919944,0,19871,0" user="狮堂真奈Official">快去吃饭吧，等会见~</d>
+  <d p="46.647,1,25,16777215,1793512919786,0,7820347,0" user="月落满空山">已被偷</d>
+  <d p="46.647,1,25,16777215,1793512919908,0,1891427741,0" user="传统美德兮">开饭</d>
+  <d p="48.520,4,25,14893055,1793512922455,0,1720160,0" user="-卡里尔OvO-">吃饭吧小弥</d>
+  <d p="49.233,1,25,16777215,1793512922995,0,523018014,0" user="自分_">丨吧宝宝，我要去看军大哥了</d>
+  <d p="49.830,1,25,16777215,1793512923086,0,472782,0" user="无能狂鹿人">prpr</d>
+  <d p="50.572,1,25,14893055,1793512924324,0,291150514,0" user="弥月家的波加曼0w0">88888888</d>
+  <d p="54.415,4,25,16777215,1793512927536,0,1464721816,0" user="弥月家的暮星">待会儿见呢</d>
+  <d p="55.015,1,25,14893055,1793512928447,0,98657670,0" user="R1der-">prpr</d>
+  <d p="55.761,4,25,14893055,1793512929003,0,1536652210,0" user="弥月家的夜寒沁雪">一个小时后见</d>
+  <d p="56.300,1,25,14893055,1793512930559,0,67809378,0" user="黑听的来了">888888</d>
+  <d p="57.067,1,25,16777215,1793512930697,0,289092043,0" user="赫兹星hzx">咋这样</d>
+  <d p="57.067,1,25,16777215,1793512930861,0,7820347,0" user="月落满空山">拜拜拜拜</d>
+  <d p="59.645,1,25,16777215,1793512933008,0,289092043,0" user="赫兹星hzx">prpr</d>
+  <d p="59.645,1,25,16777215,1793512933082,0,80967503,0" user="Hopegrave">prpr</d>
+  <d p="60.223,4,25,14893055,1793512933627,0,1720160,0" user="-卡里尔OvO-">拜拜拜拜拜小弥</d>
+  <d p="61.012,1,25,16777215,1793512934352,0,4998601,0" user="依露Iruvard">prpr</d>
+  <d p="61.012,1,25,16777215,1793512934639,0,29540129,0" user="我爱吃水果汉堡">prpr</d>
+  <d p="61.013,4,25,14893055,1793512935013,0,2403744,0" user="律归柃">8888888888888888</d>
+  <d p="64.147,1,25,16777215,1793512938043,0,626107782,0" user="リンメンティー">8888</d>
+  <d p="64.148,1,25,14893055,1793512938282,0,98657670,0" user="R1der-">prpr</d>
+  <d p="64.843,4,25,16777215,1793512939009,0,1464721816,0" user="弥月家的暮星">prpr</d>
+  <d p="64.843,1,25,14893055,1793512939175,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="84.306,4,25,14893055,1793512958262,0,305013,0" user="関上柚月_Channal">辛苦了~</d>
+  <d p="84.923,1,25,14893055,1793512958393,0,19871,0" user="狮堂真奈Official">prpr</d>
+  <d p="85.652,1,25,16777215,1793512959755,0,25273637,0" user="相怜愚树">prpr</d>
+  <d p="86.203,1,25,16777215,1793512959569,0,19127553,0" user="你咋那么悠哉呢">prpr</d>
+  <d p="86.962,1,25,16777215,1793512960159,0,27562202,0" user="街巷的路人Y">888</d>
+  <d p="86.962,1,25,14893055,1793512960322,0,390383927,0" user="水长东_-">prpr</d>
+  <d p="86.962,1,25,14893055,1793512960929,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="94.797,1,25,14893055,1793512968576,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="96.038,1,25,16777215,1793512970286,0,36365819,0" user="素敌Suteki">prpr</d>
+  <d p="113.508,1,25,16777215,1793512987668,0,381241460,0" user="9M120">prpr</d>
+  <d p="120.003,1,25,14893055,1793512994030,0,3808090,0" user="弥月家的神楽辉月">prpr</d>
+  <d p="131.162,1,25,16777215,1793513004510,0,436389003,0" user="Folia_117">prpr</d>
+  <d p="146.770,4,25,16777215,1793513021149,0,1464721816,0" user="弥月家的暮星">prpr</d>
+  <d p="151.914,1,25,16777215,1793513025171,0,29540129,0" user="我爱吃水果汉堡">prpr</d>
+  <d p="157.707,1,25,16777215,1793513031330,0,472782,0" user="无能狂鹿人">prpr</d>
+  <d p="162.359,1,25,14893055,1793513036141,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="162.913,1,25,16777215,1793513036616,0,1643289,0" user="TKMN丶">咋这样</d>
+  <d p="165.529,1,25,16777215,1793513038734,0,1643289,0" user="TKMN丶">prpr</d>
+  <d p="187.105,1,25,14893055,1793513060736,0,39411645,0" user="弥月家的Fhamdraws">prpr</d>
+  <d p="188.356,4,25,16777215,1793513061493,0,1464721816,0" user="弥月家的暮星">prpr</d>
+  <d p="188.904,1,25,16777215,1793513063207,0,1643289,0" user="TKMN丶">prpr</d>
+  <d p="196.751,1,25,16777215,1793513070621,0,486070750,0" user="篪虞_">prpr</d>
+</i>
