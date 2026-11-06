@@ -1,0 +1,213 @@
+## 晚安回复
+
+---
+generatedAt: "2026-11-06T18:16:05.407Z"
+sourceHighlight: "录制-1727074031-20261106-220104-898-⭐初见!宝可梦紫!!!!⭐_merged_AI_HIGHLIGHT.txt"
+provider: "daiYu"
+model: "gpt-6-luna"
+fallback: false
+attempts:
+  - provider: "daiYu"
+    model: "gpt-6-luna"
+    status: "success"
+    finishReason: "completed"
+    maxTokens: 100000
+    completionTokens: 361
+    promptTokens: 27469
+    cachedTokens: 4224
+    cacheWriteTokens: 0
+    reasoningTokens: 250
+    apiModeRequested: "responses"
+    apiModeUsed: "responses"
+    sharedPromptCacheKey: "f05800933de9680bedbd969bc73e05260827a0b73fe1dc9a48537fb75c52929c"
+    sharedPromptPrefixChars: 34474
+    explicitPromptCache: "implicit_routed"
+    promptCacheRolloutBucket: 9155
+    totalTokens: 27830
+    requestId: "8a207a07-ba42-4cd4-91e3-5b50feec41b0"
+    responseId: "resp_00914b416e7c3415016aee195eff7087d084fd78a2e52d65a4"
+    requestStarted: true
+---
+从捏妈妈造型一路逛到帕底亚，听你认真研究宝可梦、又被呆火鳄憨憨的小脚爪萌到，连润水鸭都快成没人要的小孩了，画面感满满。羽啾今天玩得又投入又可爱，宇宙猫看得好开心，播到这么晚辛苦啦，记得好好休息，喜欢你也会一直支持你呀！
+
+---
+
+## Highlight
+
+【摘要】(保留率: 前35%热度 + 10%随机)
+---
+【参与者】计划参与: 无
+【参与者】实际出声: 无
+【归属说明】名单不证明逐句身份；实际出声仅指音轨匹配，也可能来自被观看内容。UNKNOWN和匿名标签不可归给房主。
+---
+[0m] 🔥 [UNKNOWN] 不太肿啊。[UNKNOWN] 我们听得到这个配件的声音。[UNKNOWN] 感觉有点小啊换什么呢。[UNKNOWN] 我们来我们来当一个金发吧。[UNKNOWN] 金发大波妹s go。[UNKNOWN] 我的名字是我去。[UNKNOWN] 在我这个吧来我个抱。[UNKNOWN] 不要黑皮体育生行吗  (💬 问号啾(x10) / 无辜啾(x5) / 听得见 / 黑皮体育生 / 喵啾)
+[0m] 🔥 [UNKNOWN] 不是。[UNKNOWN] 如果我是黑皮体育生的话。[UNKNOWN] 那我的妈妈是不是也是黑皮的呀。[UNKNOWN] 就是我要选什么样。[UNKNOWN] 才让我妈妈看起来好看一点。[UNKNOWN] 我觉得还是选这个吧。[UNKNOWN] 我觉得选这个至少妈妈是个魂。[UNKNOWN] 妈妈比较漂亮  (💬 问号啾(x13) / 没眼看啾(x3) / 啥啾 / 龙宫礼啾 / 种族骑士)
+[0m] 🔥 [UNKNOWN] 我们这个。[UNKNOWN] 我们这个不不按照这种搞怪的方向。[UNKNOWN] 我们主要最重要的。[UNKNOWN] 是看一下妈妈长什么样。[UNKNOWN] 我觉得我觉得我这个。[UNKNOWN] 长相应该是妈妈里面最好看的一个。[UNKNOWN] 我妈应该是最好看的一个。[UNKNOWN] 嘿  (💬 问号啾(x11) / 没眼看啾(x4) / 龙宫礼啾 / 种族骑士 / 本本啾)
+[1m] 🔥 [UNKNOWN] 是我的妈呀哟。[UNKNOWN] 铁梯来了。[UNKNOWN] 这个是铁梯。[UNKNOWN] 我去就金色。[UNKNOWN] 哎对的对的对的。[UNKNOWN] 那那这个不太对不太对嗯。[UNKNOWN] 不对不对的不对的。[UNKNOWN] 不行不行啊这个不行。[UNKNOWN] 哎哎这是对的这是对的  (💬 问号啾(x10) / 无辜啾(x5) / 没眼看啾(x4) / 呃呃(x3) / 鹅鹅鹅 精神小妹发色)
+[1m] 🔥 [UNKNOWN] 不行不行还是推边头比较帅。[UNKNOWN] 我是帅气。[UNKNOWN] 还有什么别的了。[UNKNOWN] 七 是。[UNKNOWN] 不够帅我懂得慌啊。[UNKNOWN] 嗯。[UNKNOWN] 还是绿的吧绿毛毛来了。[UNKNOWN] 对铁蹄来了。[UNKNOWN] 你设置外表。[UNKNOWN] 不  (💬 问号啾(x15) / 无辜啾(x4) / 呃呃(x3) / 懂你意思(x3) / 啥啾)
+[2m] 🔥 [UNKNOWN] 唉这不迷上这不迷上。[UNKNOWN] 我请问呢。[UNKNOWN] 我是这也太帅了。[UNKNOWN] 神亲啊。[UNKNOWN] 刚知道妈妈你一个哭。[UNKNOWN] 不是这真帅了哦。[UNKNOWN] 是什么。[UNKNOWN] 还有双拼。[UNKNOWN] 五谢谢不行。[UNKNOWN] 这个不太不太适合我  (💬 问号啾(x7) / 羽啾你被绿了。。。(x3) / 羽啾大头能不能挪右下角(x3) / 啥啾 / 抱抱啾)
+[3m] 🔥 [UNKNOWN] 不够帅嗯不够适合我。[UNKNOWN] 我觉得得是这个脾气。[UNKNOWN] 睫毛妆。[UNKNOWN] 哎呀帅气来了。[UNKNOWN] 宝可梦里面最帅的t呀。[UNKNOWN] 还是这个网真的给我一种妩媚之感。[UNKNOWN] 睫毛里颜色绿了呃。[UNKNOWN] 超级帅气来了。[UNKNOWN] 神带泪  (💬 问号啾(x11) / 瓜甜啾(x3) / 不够豪 / 无辜啾 / 原来这里就埋下伏笔了吗？[委屈])
+[4m] 🔥 [UNKNOWN] 唉就是这个这个冷脸萌这个帅。[UNKNOWN] 不是这个了啊。[UNKNOWN] 还可以涂嘴巴。[UNKNOWN] 唉不行帅气不许涂嘴。[UNKNOWN] 帅气不许涂唇膏。[UNKNOWN] 哇这个不太好看。[UNKNOWN] 唉这不太好看。[UNKNOWN] 还是不要有痣比较好。[UNKNOWN] 还有雀斑  (💬 问号啾(x13) / 没眼看啾(x3) / 无辜啾 / fumo啾 / 山田啾)
+[4m] 🔥 [UNKNOWN] 哇这个这个这个。[UNKNOWN] 这个这个雀斑捏的。[UNKNOWN] 可以看一看妈妈。[UNKNOWN] 妈。[UNKNOWN] 妈妈你。[UNKNOWN] 你应该是一个金发大波妹吧。[UNKNOWN] 还好我应该不是黑皮。[UNKNOWN] 如果我是黑皮的话。[UNKNOWN] 那我的妈妈是不是得太丑了  (💬 问号啾(x25) / 感觉是娘化马尔福(x4) / 瓜甜啾 / 没眼看啾 / call啾)
+[5m] 🔥 [UNKNOWN] 真都不重要啊。[UNKNOWN] 嗯。[UNKNOWN] 我妈我妈现在要不要重要。[UNKNOWN] 感觉声音是有点小。[UNKNOWN] 我妈呢啊 嗯。[UNKNOWN] 葡萄学院校长克拉维尔。[UNKNOWN] 巴里亚一群是一个。[UNKNOWN] 与自然为伴途径非常丰饶的地方。[UNKNOWN] 那有没有丰饶一点的穿搭呢  (💬 问号啾(x25) / 无辜啾(x3) / 盲猜是娘化马尔福 / ？？？？ / 感觉是娘化马尔福)
+[6m] 🔥 [UNKNOWN] 就比如说这种包臀裙。[UNKNOWN] 比如说那种不外穿比基尼。[UNKNOWN] 既然是这种风格。[UNKNOWN] 肯定是要那种啊要像林克哦。[UNKNOWN] 布波好可爱。[UNKNOWN] 哎呀宝肥肥的。[UNKNOWN] 哎呀宝宝我去。[UNKNOWN] 皮卡丘都的像路边的野狗一样。[UNKNOWN] Ok ok这个胖丁可爱  (💬 问号啾(x32) / 呃呃(x3) / ？？？(x3) / ？？？？ / 压抑了)
+[6m] 🔥 [UNKNOWN] 后面那个电龙也可爱啊。[UNKNOWN] 可爱可爱可爱可爱可爱雷球。[UNKNOWN] 这是雷球吗。[UNKNOWN] 这是雷球吗。[UNKNOWN] 超上你好哈嗯来瞅瞅你的腋下水纹。[UNKNOWN] 减小文。[UNKNOWN] 接下我们臭臭你的腋下。[UNKNOWN] 谢谢。[UNKNOWN] Oh  (💬 问号啾(x20) / ？？？(x4) / 多吃点 / 呃呃 / 也够)
+[7m] 🔥 [UNKNOWN] 嗯。[UNKNOWN] 哎我上去吧我上去吧。[UNKNOWN] 这样不会挡到啊。[UNKNOWN] 我感觉应该不行啊。[UNKNOWN] 我感觉要把声音调一下。[UNKNOWN] 把这个声音调一下。[UNKNOWN] 我感觉声音你们听的有点太小了。[UNKNOWN] 我的这个是不是不是有点太大了  (💬 🐉了(x8) / 问号啾(x5) / 大大大(x3) / ？？？ / fumo啾)
+[7m] 🔥 [UNKNOWN] 大还是小。[UNKNOWN] 唉算了小就是大大就是小嘛。[UNKNOWN] 就是这样吧。[UNKNOWN] 要是实在是有点太大了。[UNKNOWN] 就跟我说吧。[UNKNOWN] 还是大吗。[UNKNOWN] 然后我再。[UNKNOWN] 啊现在差不多吧。[UNKNOWN] 垃圾山的腋下和臭臭泥  (💬 man(x9) / 🐉了(x6) / 问号啾(x6) / 大大大(x4) / 大了)
+[7m] 🔥 [UNKNOWN] 的腋下两个味更大。[UNKNOWN] 肯定是臭臭泥啊。[UNKNOWN] 臭臭泥的名字里都有臭臭两字了。[UNKNOWN] 肯定是臭臭泥的。[UNKNOWN] 味道更大一点。[UNKNOWN] 你们喜欢大的是喜欢的。[UNKNOWN] 我觉得这个剑魔还是还是一样啊。[UNKNOWN] 坠机了。[UNKNOWN] 坠机了别坠别追别带别带节奏  (💬 问号啾(x10) / man(x9) / 大大大(x5) / 龙宫礼啾 / 切割了)
+[8m] 🔥 [UNKNOWN] 这不是主播带的。[UNKNOWN] 不是主播带的。[UNKNOWN] 跟主播没有关系的。[UNKNOWN] 我也说这肯定是我家吧。[UNKNOWN] 我妈妈在哪里。[UNKNOWN] 感觉我妈应该是个金发大波妹啊。[UNKNOWN] yeah应该也正好穿的是我妈。[UNKNOWN] 最好最好。[UNKNOWN] 不是我  (💬 问号啾(x16) / man(x7) / 龙宫礼啾(x4) / 大大大(x3) / 呃呃(x3))
+[8m] 🔥 [UNKNOWN] 我这个主角有爸爸吗。[UNKNOWN] 哈。[UNKNOWN] 绿发铁器降临。[UNKNOWN] 哎我是绿毛控啊。[UNKNOWN] 家人们。[UNKNOWN] 来吧站起来stand up。[UNKNOWN] 先先是先到宝宝 Ok哇。[UNKNOWN] 我真帅啊哇。[UNKNOWN] 流口水了。[UNKNOWN] 家人们  (💬 问号啾(x19) / 龙宫礼啾(x4) / 无辜啾(x3) / 呃呃(x3) / call啾)
+[9m] 🔥 [UNKNOWN] 我这么帅的小我。[UNKNOWN] 这么帅的小女生可不多见了吗。[UNKNOWN] 我来吧lets go懂跑步啊。[UNKNOWN] 很急爱如shift跑步。[UNKNOWN] 哪里不帅了。[UNKNOWN] 我这种帅气小女人。[UNKNOWN] 在宝可梦的世界里面。[UNKNOWN] 你就妈别问了  (💬 问号啾(x24) / 呃呃 / 无辜啾 / 本本啾 / 这很诡异。)
+[9m] 🔥 [UNKNOWN] 我我这个是这个是这个是啊。[UNKNOWN] 反正怎么样都是很正确的。[UNKNOWN] 我妈妈呢妈妈啊 木擦嘞。[UNKNOWN] 不要说脏话小贪心栗鼠。[UNKNOWN] 不要说脏话不要说脏话。[UNKNOWN] 哎。[UNKNOWN] 是金发大波妹吗。[UNKNOWN] 金发小波妹早i to are you  (💬 问号啾(x25) / 得意啾(x5) / 本本啾(x4) / 无辜啾(x3) / 瓜甜啾)
+[9m] 🔥 [UNKNOWN] 妈。[UNKNOWN] 你儿子是被你女儿成帅气了。[UNKNOWN] 有感觉吗。[UNKNOWN] 呦啊你穿上制服了呀。[UNKNOWN] 从今天天始你要去新学校了呢。[UNKNOWN] 妈妈我也很期待待。[UNKNOWN] 哎呦妈妈真漂亮。[UNKNOWN] 选这个是对的。[UNKNOWN] 选这个选这个是对的  (💬 问号啾(x20) / 本本啾(x6) / 得意啾(x6) / 无辜啾(x4) / 妈妈打算开小号了(x3))
+[10m] 🔥 [UNKNOWN] 还好没有选这个别的。[UNKNOWN] 颜色的别的颜色的。[UNKNOWN] 别的颜色的妈妈估计计就不是金发。[UNKNOWN] 大波妹真不带真不大。[UNKNOWN] 大波妹来了。[UNKNOWN] 秋阿优你去看一看妈妈。[UNKNOWN] 不是我头发后面像石缘天空。[UNKNOWN] 你们有没有看过石纪元啊  (💬 问号啾(x13) / 本本啾(x7) / 得意啾(x7) / 无辜啾(x4) / 妈妈打算开小号了(x3))
+[10m] 🔥 [UNKNOWN] 我的头发再长长一点。[UNKNOWN] 你就是石纪元了。[UNKNOWN] 别说脏话别说脏话。[UNKNOWN] 宝宝不能说脏话。[UNKNOWN] 哟他让我去哪呀。[UNKNOWN] 去哦门在这里。[UNKNOWN] 一进门就是厨房。[UNKNOWN] 天哪干农活的命。[UNKNOWN] 哦哦这个侧门啊  (💬 问号啾(x14) / 本本啾(x5) / 得意啾(x5) / 呃呃(x3) / 妈妈看到你打算开小号了(x3))
+[10m] 🔥 [UNKNOWN] 抱歉对不起冤枉你了。[UNKNOWN] 妈。[UNKNOWN] 我晕三弟了妈妈。[UNKNOWN] 你觉得我晕三弟吗。[UNKNOWN] 谁呀。[UNKNOWN] 啊刚刚那个布播骑着的那个人。[UNKNOWN] 刚刚被布播齐了的那个。[UNKNOWN] 你就是秋二又同学没错吧。[UNKNOWN] 入学只难受百了  (💬 问号啾(x16) / 呃呃(x7) / ？？？(x6) / 得意啾(x4) / 妈妈看到你打算开小号了(x4))
+[11m] 🔥 [UNKNOWN] 真是抱歉。[UNKNOWN] 哎呀我应该先接受一下自己。[UNKNOWN] 我操发认了制服设计。[UNKNOWN] 是不是有点太太成人了。[UNKNOWN] 他的腰上绑了。[UNKNOWN] 绑了六个精灵球。[UNKNOWN] 我的天哪。[UNKNOWN] 上次看这个还是在本子里面。[UNKNOWN] 就是腿上拿了一个这个这个什么的  (💬 问号啾(x16) / ？？？(x8) / 呃呃(x8) / onp(x3) / 妈妈看到你打算开小号了)
+[11m] 🔥 [UNKNOWN] 橡皮筋绑了绑六个气球。[UNKNOWN] 我天战斗。[UNKNOWN] 这个这个男童教授是不是有一点。[UNKNOWN] 有有点太淫秽了吧。[UNKNOWN] 这涉这涉黄了这涉黄了吧。[UNKNOWN] 老师别这样。[UNKNOWN] 老师别这样别勾引我妈妈。[UNKNOWN] 您太用心了都不好意思  (💬 问号啾(x19) / ？？？(x10) / 呃呃(x9) / onp(x4) / 啥啾(x3))
+[11m] 🔥 [UNKNOWN] 我爸爸呢。[UNKNOWN] 不是这这老师也太太烧灵了。[UNKNOWN] 迎蝶张罗张罗是谁呀。[UNKNOWN] 我叫车二月安娜。[UNKNOWN] 我和校长有。[UNKNOWN] 包包和帽子都是不能缺的吧。[UNKNOWN] 总是在提醒我戴帽子了。[UNKNOWN] 难道难道老师你老师你喜欢四爱啊  (💬 问号啾(x17) / ？？？(x6) / 呃呃(x5) / onp(x3) / 对这个没有😅表情的直播间绝望了(x3))
+[12m] 🔥 [UNKNOWN] 老师你不早说。[UNKNOWN] 不是妈妈我爸爸呢。[UNKNOWN] 你不能做这种事情啊。[UNKNOWN] 算了没事没事。[UNKNOWN] 我目前看来我没有爸爸。[UNKNOWN] 你也行吧你来当我爸爸。[UNKNOWN] 我就是关系户了。[UNKNOWN] 我去拿帽子去。[UNKNOWN] 哼哎帽子来喽  (💬 问号啾(x18) / 对这个没有😅表情的直播间绝望了 / ？？？ / 鼠啾 / 山田啾)
+[12m] 🔥 [UNKNOWN] 来吧帽子a嗯。[UNKNOWN] 哎要背上包包戴上帽子吗。[UNKNOWN] 卡邦张。[UNKNOWN] 我们我们瘦娘动物园那句话怎么说。[UNKNOWN] by the hoy。[UNKNOWN] 哼嗯missile smile。[UNKNOWN] yeah。[UNKNOWN] 不是我们受娘的会员  (💬 问号啾(x12) / call啾(x3) / 看来遗传了爸爸的发色 / fumo啾 / 龙宫礼啾)
+[13m] 🔥 [UNKNOWN] 那个什么哦塔东西哦塔诺西呀。[UNKNOWN] 不是戴上这个帽子。[UNKNOWN] 本人的头发就一点都看不见了。[UNKNOWN] 别人以为光头来上去了啊。[UNKNOWN] 不过还好我的这个五官比较清秀。[UNKNOWN] 天哪走吧lets go。[UNKNOWN] 我在打扮真是有模有样。[UNKNOWN] 妈妈不想让我做帅t  (💬 问号啾(x17) / 说母语了 / 山田啾 / 鼠啾 / 无辜啾)
+[13m] 🔥 [UNKNOWN] 我妈妈想让我做帅t这个帽子一戴。[UNKNOWN] 我更是个光头了。[UNKNOWN] 我到时候进学校。[UNKNOWN] 想找哪个女的谈。[UNKNOWN] 找我女的谈lets go。[UNKNOWN] 我我们学校的学生。[UNKNOWN] 就应该有这个风范。[UNKNOWN] 老师你有点不符合这个风范  (💬 问号啾(x13) / 瓜甜啾 / fumo啾 / ？？？ / ­？)
+[13m] 🔥 [UNKNOWN] 我说真的。[UNKNOWN] 你的这个腰间别了六个精灵球。[UNKNOWN] 有点太色情了。[UNKNOWN] 搞得像是去拔座岛上学一样。[UNKNOWN] 哎呀我这是怎么了。[UNKNOWN] 差点就忘记把最重要。[UNKNOWN] 的东西交给秋万就妥衔你了。[UNKNOWN] 我这里不方便。[UNKNOWN] 我们还是去外面去吧  (💬 问号啾(x13) / 啥啾(x3) / ­？ / 无辜啾 / 道馆。。。)
+[14m] 🔥 [UNKNOWN] 哦ok。[UNKNOWN] 最重要的东西是什么呢。[UNKNOWN] 到外面去吧。[UNKNOWN] 唉家人们我想买这个替身玩偶。[UNKNOWN] 我之前在那个宝可梦盗馆。[UNKNOWN] 里面见到了一个毛绒这个松软系列。[UNKNOWN] 很大一个三百块钱。[UNKNOWN] 一个这么大的玩偶  (💬 问号啾(x8) / 啥啾(x4) / 道馆。。。 / ？­ / ­？)
+[14m] 🔥 [UNKNOWN] 我还想要一个呀。[UNKNOWN] 好想买一个呀。[UNKNOWN] 下次什么时候什么时候看。[UNKNOWN] 有谁出门了之后去宝。[UNKNOWN] 可梦道馆买这个玩偶。[UNKNOWN] 好像是道观了。[UNKNOWN] 好想道馆。[UNKNOWN] 我还我还就是小猫。[UNKNOWN] 嗨一起你上命奥利给哦  (💬 问号啾(x6) / 啥啾(x4) / ？­(x3) / 道馆。。。 / 龙宫礼啾)
+[14m] 🔥 [UNKNOWN] 好来一起拟扫描阿利嘎多润水鸭。[UNKNOWN] 必须是润水鸭。[UNKNOWN] 唉不行中间这个。[UNKNOWN] 这个星夜啊还是新夜喵吧。[UNKNOWN] 星夜喵比较符合我这个绿色的气质。[UNKNOWN] 啊还是火鳄宝可梦吧。[UNKNOWN] 还是这个呆会饿吧。[UNKNOWN] 呆会饿看上去蠢蠢的嗯  (💬 问号啾(x4) / ？­(x3) / 山田啾 / auy / 刻晴)
+[15m] 🔥 [UNKNOWN] 哎呀蠢蠢的感觉挺萌的。[UNKNOWN] 唉必须是润水压。[UNKNOWN] 我觉得。[UNKNOWN] 他们都很粘人。[UNKNOWN] 不愿意从你的身边离开呀。[UNKNOWN] 那他他现在靠近我是干什么。[UNKNOWN] 手机骆驼母啊。[UNKNOWN] 这是宝可梦图鉴等你。[UNKNOWN] 哎  (💬 问号啾(x5) / 无辜啾(x3) / 本本啾(x3) / 得意啾(x3) / auy)
+[16m] 🔥 [UNKNOWN] 新手机我来念一下说明书吧。[UNKNOWN] 苹果还是安卓一乐。[UNKNOWN] 就按y键好像能看地图。[UNKNOWN] 很方便的 Ok慢走。[UNKNOWN] 让我滚。[UNKNOWN] 我现在都你要选哪个呢。[UNKNOWN] 宝宝你在看什么啊。[UNKNOWN] 宝宝你宝宝。[UNKNOWN] 你肚子穿模卡弟弟的宝宝  (💬 问号啾(x7) / 啥啾 / 得意啾 / 鼠啾 / 本本啾)
+[16m] 🔥 [UNKNOWN] 唉我。[UNKNOWN] 唉我的屁股不够翘。[UNKNOWN] 直接选吗。[UNKNOWN] 小沈你待会儿饿怎么办呀。[UNKNOWN] 太蠢了。[UNKNOWN] 他看起来天天张着个嘴巴好憨啊。[UNKNOWN] 我喜欢这种长得蠢的。[UNKNOWN] 我跑步呀家人们。[UNKNOWN] 哦。[UNKNOWN] Rl一路  (💬 问号啾(x10) / 感觉不如新叶喵。。。(x7) / 啥啾(x4) / 无辜啾 / 到底要选哪个呢！到底要选哪个呢！到底要选哪个呢！)
+[17m] 🔥 [UNKNOWN] 嗯不是现在玩习惯那个什么了。[UNKNOWN] 现在玩习惯x叉bobox了。[UNKNOWN] 这个不太会用b是哪一个。[UNKNOWN] 哎呀宝宝你真可爱。[UNKNOWN] 在跑步呀我受不了了走太慢了。[UNKNOWN] 还想跑啊。[UNKNOWN] 不嫌说你带虎饿。[UNKNOWN] 他长得太憨了可爱  (💬 感觉不如新叶喵。。。(x11) / 问号啾(x8) / 本本啾(x6) / 得意啾(x3) / 啥啾(x3))
+[17m] 🔥 [UNKNOWN] 我喜欢长得蠢的。[UNKNOWN] 看到他还让我想起了牙牙。[UNKNOWN] 怎么减啊。[UNKNOWN] 剪不了吗。[UNKNOWN] 唉不让剪吗。[UNKNOWN] 真的假的真坏。[UNKNOWN] 走都走这么老远了。[UNKNOWN] 唉我们家房顶有金色的。[UNKNOWN] 这个是什么。[UNKNOWN] 这个是原神的解密  (💬 问号啾(x16) / 感觉不如新叶喵。。。(x12) / 本本啾(x5) / 啥啾(x4) / 到底要选哪个呢！到底要选哪个呢！到底要选哪个呢！)
+[18m] 🔥 [UNKNOWN] 走太慢爱了吧。[UNKNOWN] 初二u。[UNKNOWN] 这个是要召唤一个温迪。[UNKNOWN] 然后然后飞起来拿屋顶上的。[UNKNOWN] 嗯那不一下呢。[UNKNOWN] 那个什么呀。[UNKNOWN] 这个是那个疾风柚吗。[UNKNOWN] 叫什么柚来着。[UNKNOWN] 在哪儿。[UNKNOWN] 应该在下午  (💬 问号啾(x11) / 感觉不如新叶喵。。。(x7) / 龙宫礼啾(x3) / fumo啾 / 没少玩)
+[18m] 🔥 [UNKNOWN] 没看见了真的。[UNKNOWN] 啊我会跑我不来讲什么。[UNKNOWN] 我怎么跑的呀。[UNKNOWN] 你什么啊哎 这里是小史镇。[UNKNOWN] 有一个有些温婉。[UNKNOWN] 含蓄的小镇小小史镇。[UNKNOWN] 小史镇。[UNKNOWN] 那什么飘飘球吗。[UNKNOWN] 什么润水鸭在水里开心的洗澡  (💬 问号啾(x8) / 龙宫礼啾 / 感觉不如新叶喵。。。 / iceb / 没眼看啾)
+[20m] 🔥 [UNKNOWN] 呵呵。[UNKNOWN] 我看过我这团。[UNKNOWN] 女儿。[UNKNOWN] 呆火了真可爱。[UNKNOWN] 这是我们塞尔达里面的烤苹果哟。[UNKNOWN] 唉呆虎鳄好好可爱啊。[UNKNOWN] 安等手机怎么拿个东不离。[UNKNOWN] 还没有选择宝可梦呢。[UNKNOWN] 别吹别吃冻梨了  (💬 剧透√(x7) / fumo啾 / 剧透🐕能不能封一下 / bad apple / 剧透🐶能不能封一下)
+[20m] 🔥 [UNKNOWN] 宝宝。[UNKNOWN] 你是。[UNKNOWN] 哎不离。[UNKNOWN] 对面比我像t真的假的。[UNKNOWN] 我想待会饿饿会儿饿太萌了。[UNKNOWN] 太大开了。[UNKNOWN] 来我喜欢呆的。[UNKNOWN] 校长莫非是谁呀。[UNKNOWN] 哦。[UNKNOWN] 他是今天转学来的初二六同学  (💬 问号啾(x13) / 啥啾 / 选喷火龙啊，会不会玩 / 羽啾跟我换宝可梦[爱] / 对面比你像个t)
+[21m] 🔥 [UNKNOWN] 我是我我不叫。[UNKNOWN] 莫非呀。[UNKNOWN] 果然是这样啊。[UNKNOWN] 你是对面那家的。[UNKNOWN] 我们是邻居 Ok我一直超好奇。[UNKNOWN] 新拜的邻居是什么样的人。[UNKNOWN] 你家住这么大大豪宅。[UNKNOWN] 你家挺有钱的嘛。[UNKNOWN] 我叫你  (💬 问号啾(x14) / 选喷火龙啊，会不会玩 / 无辜啾 / 莫非？ / 叶绿猫都不要嘛)
+[21m] 🔥 [UNKNOWN] 这名字叫谢谢柠莫姐。[UNKNOWN] 写的是NM平时住在学校的宿舍。[UNKNOWN] 你这不是你家吗。[UNKNOWN] 既然我们是哦这是学校的宿舍吗。[UNKNOWN] 怪怪不得这么大啊。[UNKNOWN] 好的我们我们多关照一下吧。[UNKNOWN] 你很紧张我的声音太大了吗。[UNKNOWN] 哎呀  (💬 问号啾(x20) / 无辜啾(x3) / 我看尼莫也是个铁T / 没眼看啾 / 叶绿素x宇宙猫的叶绿猫也要抛)
+[22m] 🔥 [UNKNOWN] 尼莫同学是我们学校的学生会场。[UNKNOWN] 卡库c开一周。[UNKNOWN] 牵手十分了得真的吗。[UNKNOWN] 你们同班同学这是咋了。[UNKNOWN] 好嘞出儿流口舌。[UNKNOWN] 不是老师你真的穿成这样。[UNKNOWN] 真的有点伤风败死。[UNKNOWN] 我早就决定好了让我选  (💬 问号啾(x10) / 我看尼莫也是个铁T(x6) / 无辜啾(x3) / 没眼看啾 / 叶绿素x宇宙猫的叶绿猫也要抛吗)
+[22m] 🔥 [UNKNOWN] 哎呃哦。[UNKNOWN] 来吧小呆虎饿带a啊。[UNKNOWN] 我手机等待会儿饿。[UNKNOWN] 它会迸发炽热的火花。[UNKNOWN] 火花不是我们洛克王国呢。[UNKNOWN] 你确定要选择火薯。[UNKNOWN] 现在待会饿吗。[UNKNOWN] 不要嗯哦哇真可爱他有小脚爪。[UNKNOWN] 千万有个绝定睡  (💬 问号啾(x15) / 我看尼莫也是个铁T(x10) / xsl(x3) / 叶绿素x宇宙猫的叶绿猫也要抛吗 / fumo啾)
+[23m] 🔥 [UNKNOWN] 待会饿了啊请昵称吗。[UNKNOWN] 欢迎我饿。[UNKNOWN] 他是他是小鳄鱼吗。[UNKNOWN] 他是小鳄鱼。[UNKNOWN] 鳄鱼代表什么呢。[UNKNOWN] 鳄代表嗯。[UNKNOWN] 唉没事儿。[UNKNOWN] 他看起来还挺呆呆的。[UNKNOWN] 啊笨蛋的笨。[UNKNOWN] 啊  (💬 问号啾(x16) / 我看尼莫也是个铁T(x6) / xsl(x4) / 烧T(x3) / fumo啾)
+[24m] 🔥 [UNKNOWN] 笨是这个笨还是那个笨。[UNKNOWN] 这个笨吗。[UNKNOWN] 笨蛋少林。[UNKNOWN] 看上去呆呆的真可爱吧。[UNKNOWN] 不让不让叫宝可梦笨蛋好吧。[UNKNOWN] 唉少林可以。[UNKNOWN] 哇我的我的肌。[UNKNOWN] 我这个肌肉不是当当零。[UNKNOWN] 怎么当  (💬 问号啾(x11) / 笨蛋（右上角）(x3) / 章鱼啾 / 丈育…… / ­？)
+[24m] 🔥 [UNKNOWN] 呃不是我怎怎么。[UNKNOWN] 不是当一怎么当一啊。[UNKNOWN] 我去我去超级铁t来了。[UNKNOWN] 千这个超级大肌肉猛男啊。[UNKNOWN] 看来大家一会饿。[UNKNOWN] 也很喜欢二二同学。[UNKNOWN] 你啊那必然呢。[UNKNOWN] 平衡性也不错吧。[UNKNOWN] 好他肯定选c秒  (💬 问号啾(x9) / 羽啾。。。你终究超越不了一吻啊 / 龙宫礼啾 / 扫0确实可以 / 笨蛋（右上角）)
+[25m] 🔥 [UNKNOWN] 然后到时候我进行一套属性克制。[UNKNOWN] 把它打熟。[UNKNOWN] 你看嘛这么笨都不让属性克制。[UNKNOWN] 呆混鹅直接站在我的大臂上了。[UNKNOWN] 我去润水鸭成没人要的孩子了。[UNKNOWN] 润水鸭。[UNKNOWN] 润水鸭的两个小眼睛里。[UNKNOWN] 感觉泪眼汪汪了  (💬 问号啾(x5) / 大b吗 / 。。。 / 暴打叶绿素 / 让让你而已)
+[26m] ▫️ [UNKNOWN] 我根本不用跟他鄙视。[UNKNOWN] 行。[UNKNOWN] 我们宝可梦训练家要通过对战。[UNKNOWN] 让宝可梦变强。[UNKNOWN] 确实已经准备好对战了吗。[UNKNOWN] 帮我准备好的。[UNKNOWN] 还用说吗。[UNKNOWN] 肯定是新夜没有啊。[UNKNOWN] 这个人突然用头身冰  (💬 问号啾(x5) / 羽啾的大臂也太有劲了(x3) / fumo啾 / ？？？？ / 都是铁暗恋的阴谋)
+[26m] 🔥 [UNKNOWN] 我差点一不小心就。[UNKNOWN] 派出平时中的宝可梦了。[UNKNOWN] 哦 还还在装论装逼。[UNKNOWN] 还是你更强一点呢。[UNKNOWN] 倪莫同学。[UNKNOWN] 润不是小烧梨没有屁眼啊。[UNKNOWN] 你们看小手里没有屁眼怎么办。[UNKNOWN] 火花烧酥。[UNKNOWN] 注意看手里没有屁眼  (💬 问号啾(x18) / ？？？？(x3) / 没眼看啾 / 瓜甜啾 / ？？？？？)
+[27m] 🔥 [UNKNOWN] 手里没有艾子小伙计。[UNKNOWN] 大家就不用说。[UNKNOWN] 火克草不错你就好好预习嘛。[UNKNOWN] 这不是你你选的吗。[UNKNOWN] 抓。[UNKNOWN] 去死吧谢谢小喵。[UNKNOWN] 太。[UNKNOWN] 单身了哎呀。[UNKNOWN] 真可爱呆呆的那没事儿识是不是  (💬 问号啾(x13) / onp(x4) / fumo啾 / iceb吧 / 妮莫比羽啾T)
+[28m] 🔥 [UNKNOWN] 少林。[UNKNOWN] 虽然没有屁眼但是他有嘴。[UNKNOWN] 哼。[UNKNOWN] 他的嘴。[UNKNOWN] 少林的嘴比星夜喵。[UNKNOWN] 和瑞水鸭加起来都大。[UNKNOWN] 你比想象中的更厉害。[UNKNOWN] 我相信一就会变得更强的。[UNKNOWN] Ok快拜拜。[UNKNOWN] 我要进城啊别别打扰我进城  (💬 问号啾(x10) / onp / 山田啾 / 无辜啾 / 去SPAxsl。。。)
+[29m] 🔥 [UNKNOWN] 刚是那个APP什么pokekemon。[UNKNOWN] sleep。[UNKNOWN] 可以让我在睡人的时候。[UNKNOWN] 抓宝可梦ok还会帮我下呀。[UNKNOWN] 我是老头。[UNKNOWN] 我不知道怎么下PP。[UNKNOWN] 谢谢你们告诉我这个。[UNKNOWN] 老人机该怎么使用  (💬 问号啾(x8) / 无辜啾 / 催眠app / fumo啾 / 你什么冠军)
+[29m] 🔥 [UNKNOWN] 你只到图鉴都是在笔记本上手写的。[UNKNOWN] 我天哪。[UNKNOWN] 臭老根。[UNKNOWN] 老邓太伤分败俗了。[UNKNOWN] 赶紧离开我的直播间。[UNKNOWN] 给宝可梦相遇的那份感动。[UNKNOWN] 大火饿。[UNKNOWN] 好喜欢你小少林。[UNKNOWN] 我有事要和泥木头同学的家人说  (💬 问号啾(x10) / 山田啾 / 没眼看啾 / 催眠app / fumo啾)
+[29m] 🔥 [UNKNOWN] ok干嘛又去偷情啊。[UNKNOWN] 跟我妈刚偷完跟尼莫妈偷。[UNKNOWN] 兑k奶你把它给我吧。[UNKNOWN] 按插键插在哪儿。[UNKNOWN] 妈妈你别被他骗了。[UNKNOWN] 老师们个个都很棒。[UNKNOWN] 不是你们不你不觉得。[UNKNOWN] 刚刚那个教授很伤风败俗吗  (💬 问号啾(x4) / 鼠啾 / ？？？？？？？？？？ / 凿凿凿 / 老头爱家访)
+[31m] 🔥 [UNKNOWN] 妈妈。[UNKNOWN] 我说妈妈的这个什么妈妈的。[UNKNOWN] 这个胸前这个围裙还放了一个勺子。[UNKNOWN] 放了一个这个嗯宝可梦球。[UNKNOWN] 说不定是说我随时都可以吃。[UNKNOWN] 你知道吗。[UNKNOWN] 是妈妈你的围裙不就这个意思吗。[UNKNOWN] 果然是我的妈妈  (💬 问号啾(x12) / 本本啾(x4) / 瓜甜啾 / 无辜啾 / call啾)
+[32m] 🔥 [UNKNOWN] 我要吃给我三明治。[UNKNOWN] 三我的妈呀赛百位。[UNKNOWN] 还给删了五个伤药。[UNKNOWN] 让我吃吃宝可梦。[UNKNOWN] 那是想吃双奶鲜。[UNKNOWN] 感觉双奶鲜很好吃啊。[UNKNOWN] 说奶心直接开个舔。[UNKNOWN] 我生日可以回家休息了。[UNKNOWN] 好的我们俩快快滚吧  (💬 问号啾(x8) / 瓜甜啾(x3) / fumo啾 / 无辜啾 / call啾)
+[32m] 🔥 [UNKNOWN] 免得免得我同学看上你了。[UNKNOWN] 妈曼我们是个我们。[UNKNOWN] 这个是女童女童世界观。[UNKNOWN] 你别追 妈妈去。[UNKNOWN] 好的。[UNKNOWN] 我妈我妈闪现回家了。[UNKNOWN] 我妈我妈是刘邦开大直接回去了。[UNKNOWN] 我妈还是很有分寸的嘞  (💬 问号啾(x8) / 瓜甜啾 / 无辜啾 / call啾 / 本本啾)
+[34m] ▫️ [UNKNOWN] 不知道。[UNKNOWN] 我去都一幕。[UNKNOWN] 爱吃屁股。[UNKNOWN] 唉我我点到我点到b了。[UNKNOWN] 怎么改名字呀。[UNKNOWN] 我要把他名字改了。[UNKNOWN] 又给了十个不愧是富婆。[UNKNOWN] 刚刚冤枉你了。[UNKNOWN] z和r的人仇z是哪个  (💬 问号啾(x9) / ？­ / 山田啾 / 主包玩紫小松绿玩朱是吧 / 龙宫礼啾)
+[39m] 🔥 [UNKNOWN] 嗯就这样吧  (💬 问号啾(x7) / 无辜啾 / 家门虫 / 没眼看啾 / 。。。)
+[40m] ▫️ [UNKNOWN] 来把三毛再抓一抓。[UNKNOWN] 怪我的少林太厉害了  (💬 问号啾 / 太烧了 / fumo啾 / 粘鞋底了 / 瓜甜啾)
+[42m] 🔥 [UNKNOWN] 宝贝宝贝。[UNKNOWN] 查看能力真的假的。[UNKNOWN] 怎么改。[UNKNOWN] 团上的你也改不了啊。[UNKNOWN] 哦我看啊我看到了昵称 好了。[UNKNOWN] 这个猪找到了这个叫做。[UNKNOWN] 要必吃臀来吧进入的队伍。[UNKNOWN] 啊。[UNKNOWN] ok  (💬 问号啾(x3) / 山田啾 / iceb… / 宝可梦好玩吗宝宝 / 鼠啾)
+[43m] 🔥 [UNKNOWN] 走。[UNKNOWN] 都。[UNKNOWN] 你被我顶死了。[UNKNOWN] 我是顶不死他太好了  (💬 问号啾(x8) / 山田啾 / ？­ / 喜欢啾 / 起名天才)
+[45m] 🔥 [UNKNOWN] 来吧。[UNKNOWN] 白袜熊熊。[UNKNOWN] 你到时候进化就是白毛白毛大熊了。[UNKNOWN] 进化了你就是白毛熊啊。[UNKNOWN] 不是白袜白袜白袜熊。[UNKNOWN] 你进化了就是重庆白袜熊了。[UNKNOWN] 咦我很满意啊。[UNKNOWN] 哇哦。[UNKNOWN] 你知道吗  (💬 问号啾(x18) / ？？？？ / 呃呃 / ？？？？？ / 什么b名字)
+[46m] 🔥 [UNKNOWN] 我现在有一个巧克力的。[UNKNOWN] 你想做我的箱子兰吗。[UNKNOWN] 不行箱子蓝要是闪光的。[UNKNOWN] 你你们你们这个进化一个闪光的。[UNKNOWN] 行好了。[UNKNOWN] 一个巧克力一个箱子。[UNKNOWN] 兰人决定了就这样吧。[UNKNOWN] 弯弯成过来头弯呃  (💬 问号啾(x4) / 山田啾 / 要不咱们把大头放右下角 / 姐妹这个我可能不太懂 / 啥啾)
+[46m] 🔥 [UNKNOWN] 弯箱子兰。[UNKNOWN] 你终究不是我的双子兰了。[UNKNOWN] 咋了。[UNKNOWN] 这个是什么。[UNKNOWN] 我觉得他像个几巴。[UNKNOWN] 什么建筑啊一个长的两个短的。[UNKNOWN] 怎么造了个几巴塔呀。[UNKNOWN] 咕咕嘎嘎。[UNKNOWN] 咕咕嘎。[UNKNOWN] 很长的宝可梦的单人  (💬 山田啾(x3) / 问号啾 / 要不咱们把大头放右下角 / fumo啾 / 🌿)
+[47m] 🔥 [UNKNOWN] 你别死了。[UNKNOWN] 我也是你们开了。[UNKNOWN] 谁谁建高塔这样建的呀。[UNKNOWN] 小鸡。[UNKNOWN] 啊你自己就打了宝宝。[UNKNOWN] 你真乖。[UNKNOWN] 鸟就是鸡。[UNKNOWN] 你知道吗。[UNKNOWN] 呃恐龙其实就是鸡。[UNKNOWN] 就是如果你们想吃恐龙肉  (💬 问号啾(x6) / ？？？？ / 无辜啾 / 收坐骑 / 密勒顿)
+[48m] 🔥 [UNKNOWN] 恐龙肉的话。[UNKNOWN] 就去吃一个鸡就可以了。[UNKNOWN] 就是现在就是就是。[UNKNOWN] 呃恐龙灭绝了之后。[UNKNOWN] 恐龙就是鸡。[UNKNOWN] 唉你们啊我不知道怎么说。[UNKNOWN] 反正你们去看一看那个什么。[UNKNOWN] 为什么小量的新视频吧。[UNKNOWN] 恐龙就是鸡呀  (💬 问号啾(x6) / aug(x5) / 要不咱们把大头放右下角(x4) / 山田啾 / 恐龙巴)
+[48m] 🔥 [UNKNOWN] 哇。[UNKNOWN] 把恐龙挡住了真的假的。[UNKNOWN] 小贱雀这名字其实不用改。[UNKNOWN] 这名字不用改啊。[UNKNOWN] 这名字不用改啊。[UNKNOWN] 啥多字。[UNKNOWN] 哎呃哦。[UNKNOWN] 千万不要去洞库。[UNKNOWN] 不能跳  (💬 要不咱们把大头放右下角(x5) / 问号啾(x4) / fumo啾(x3) / 没眼看啾 / 鼠啾)
+[52m] ▫️ [UNKNOWN] 但是我感觉还好。[UNKNOWN] 嗷嗷哇死了。[UNKNOWN] 我的我的这个什么赛百味来吧。[UNKNOWN] 吃我的赛百味。[UNKNOWN] 我妈亲手做的。[UNKNOWN] 阿嘎。[UNKNOWN] 怎么长成这样。[UNKNOWN] 给人我去这个姿势有点奇怪呀。[UNKNOWN] 八垃圾打鸡蛋垃圾  (💬 问号啾(x3) / 啥啾 / 山田啾 / 啊一古 / 这个应该没有)
+[54m] 🔥 [UNKNOWN] 爸进吧进啊。[UNKNOWN] 阿嘎斯。[UNKNOWN] 干嘛啊啊。[UNKNOWN] 我这屁股好敲。[UNKNOWN] 后面怎么还长两只眼睛呢。[UNKNOWN] 啊嘎嘎。[UNKNOWN] 嘎嘎死米  (💬 问号啾(x15) / ？？ / 羞死了 / ？？？ / ？­)
+[56m] ▫️ [UNKNOWN] 宝可梦的招式。[UNKNOWN] 我去这个这个这个。[UNKNOWN] 宝可梦长得有点哑巴啊。[UNKNOWN] 啊啊都不要净化吧。[UNKNOWN] 他把但是屈服在了我的淫威之下。[UNKNOWN] 快点过吧。[UNKNOWN] 哎你是合肥吧。[UNKNOWN] 啊行行走。[UNKNOWN] 你来  (💬 问号啾(x7) / fumo啾 / 山田啾 / call啾 / 挖矿来着)
+[60m] 🔥 [UNKNOWN] 两个圆的一个长对不对。[UNKNOWN] 哎呦能不能拍照啊。[UNKNOWN] 哎唉怎么走了别走。[UNKNOWN] 啊啊。[UNKNOWN] 哈哈哼。[UNKNOWN] yeah。[UNKNOWN] 乌鸦坐飞机。[UNKNOWN] 呃紫色心情使用十万伏特。[UNKNOWN] 你说狗狗你真的是你弱狗  (💬 ？？(x4) / 问号啾(x4) / ？？？ / 山田啾 / ­？？)
+[62m] 🔥 [UNKNOWN] 也是野狗来的快滚出去。[UNKNOWN] 哎我去。[UNKNOWN] 那个现在left疼了。[UNKNOWN] 我是不捐这个跟你长得很像吗。[UNKNOWN] 为你做啥嗯的位置。[UNKNOWN] 让我妈给你充了三百位吃。[UNKNOWN] 摩托西。[UNKNOWN] 我不知道啊这这个我哥呢  (💬 问号啾(x12) / 这好机会啊(x5) / 啥啾(x3) / 喵啾 / 龙宫礼啾)
+[64m] 🔥 [UNKNOWN] 文科班的派派。[UNKNOWN] 我们这个世界观是男的。[UNKNOWN] 都是同性恋女的都是辟呀。[UNKNOWN] 我去还遮了一遍眼睛片目长发男啊。[UNKNOWN] 你这个拿回主动权。[UNKNOWN] 弥勒顿他不是哎呀。[UNKNOWN] 你不许叫他弥勒盾。[UNKNOWN] 我准来的。[UNKNOWN] 干嘛冲我冲着我玩健身环干什么  (💬 问号啾(x4) / 男的来了 / ­男的来了 / 啥啾 / fumo啾)
+[67m] ▫️ [UNKNOWN] 密顿乐的球。[UNKNOWN] 改不了。[UNKNOWN] x是吗啊。[UNKNOWN] 改不成啊真是抱歉。[UNKNOWN] 切可外口再做们嗯。[UNKNOWN] 男第一区。[UNKNOWN] 那个是宝可梦加油站吗。[UNKNOWN] 我是一条可可爱爱的小奶圈啊  (💬 问号啾(x4) / 本本啾(x3) / chu2u（已接盘） / 冲鸭 / 山田啾)
+[71m] 🔥 [UNKNOWN] 来。[UNKNOWN] 让他滚吧。[UNKNOWN] 啊。[UNKNOWN] 玛丽露丽。[UNKNOWN] 哦露丽丽啊  (💬 问号啾(x8) / ？­ / 啥啾 / ？？？ / 鼠啾)
+[73m] ▫️ [UNKNOWN] 你来  (💬 这个队伍我真的很害怕 / 鼠啾 / 得意啾 / 啥啾 / 山田啾)
+[74m] 🔥 [UNKNOWN] 小来怎么在。[UNKNOWN] 怎么怎么蹲下来了。[UNKNOWN] 哦哦按b是蹲下来。[UNKNOWN] 喂。[UNKNOWN] 麻花犬麻花狗麻花犬。[UNKNOWN] 我要  (💬 问号啾(x9) / 小黑螈(x5) / 得意啾(x4) / 无辜啾(x3) / qrmf(x3))
+[78m] ▫️ [UNKNOWN] 我记得他是那个什么宝宝吧。[UNKNOWN] 你还想击中我的烧林。[UNKNOWN] 他前面那个我穿着红衣服的那个。[UNKNOWN] 应该叫他小丁。[UNKNOWN] 你谁。[UNKNOWN] 你开始是小。[UNKNOWN] 他是宝宝的应该这小丁丁啊。[UNKNOWN] 哎呀起急了起急了。[UNKNOWN] 听听的毛  (💬 山田啾(x3) / 男的女的 / 没品 / xfy已下放 / 不是)
+[79m] 🔥 [UNKNOWN] 我去了这是什么。[UNKNOWN] 七喜可口百事。[UNKNOWN] 噔。[UNKNOWN] 哦。[UNKNOWN] 唉那里有。[UNKNOWN] 哎呀粉的耶。[UNKNOWN] 是闪光吗。[UNKNOWN] 不能跟小孩说话。[UNKNOWN] 只能跟鹿说话。[UNKNOWN] 你这样好可爱呀。[UNKNOWN] 粉的  (💬 问号啾(x7) / 无辜啾 / 张雪峰老师 / 鼠啾 / 羞死了)
+[82m] 🔥 [UNKNOWN] 四季路。[UNKNOWN] 那还有别的颜色的路吗。[UNKNOWN] 那是春天的路。[UNKNOWN] 那那夏天的路是那种什么红的。[UNKNOWN] 然后秋天是黄的。[UNKNOWN] 然后冬天是蓝的这样。[UNKNOWN] 他是有四肢度。[UNKNOWN] 还是他会他会。[UNKNOWN] 一个季节会变一个颜色呀  (💬 四季小鹿(x6) / 无辜啾(x3) / 瓜甜啾 / 本本啾 / 山田啾)
+[83m] 🔥 [UNKNOWN] 小丁丁。[UNKNOWN] 于米小狗。[UNKNOWN] 是是春天抓的是粉的吗。[UNKNOWN] 还是说看他这个有没有更详细的那种。[UNKNOWN] 设定啊好可爱啊。[UNKNOWN] 瓶底下热。[UNKNOWN] 都是手机。[UNKNOWN] 那个臭小孩。[UNKNOWN] 春天抓就是粉。[UNKNOWN] 那你怎么没玩了  (💬 四季小鹿(x4) / 是的 4个形态 / 山田啾 / 四季小鹿­ / 无辜啾)
+[84m] ▫️ [UNKNOWN] 哎呀不快不快。[UNKNOWN] 你给我点钱吧。[UNKNOWN] 不记得了  (💬 问号啾(x3) / 宝可梦的世界不需要帮助（ / 阿尔宙斯是吧 / 这是对战NPC，打败后给你钱 / 哈哈哈哈哈哈哈哈)
+[87m] 🔥 [UNKNOWN] 我说他好可爱啊。[UNKNOWN] 粉色的。[UNKNOWN] 好可爱啊。[UNKNOWN] 前人美厚啊。[UNKNOWN] 前人美厚甜人冷厚。[UNKNOWN] 小栗鼠。[UNKNOWN] 它会变成那个做饭的那个。[UNKNOWN] 头上顶个锅的那个。[UNKNOWN] 我知道。[UNKNOWN] 不行戴起来很容易容易盘缠  (💬 问号啾(x4) / ？？？ / omg / 小福贵 / 山田啾)
+[88m] 🔥 [UNKNOWN] Super叉子又在勾引谁啊。[UNKNOWN] 让我天天就是这个样子。[UNKNOWN] 看看吧。[UNKNOWN] 你这个狗真会勾引人。[UNKNOWN] 又是蛇舔又是摇尾巴。[UNKNOWN] 又是渴望。[UNKNOWN] 不是啊。[UNKNOWN] 但是撞击也别撞了吧。[UNKNOWN] 我天哪  (💬 我觉得这个可以取名叫花礼哈雷。。。(x4) / 问号啾 / [主播女孩霓虹幻海动态表情_什么鬼] / “黄忠”是狙射树枭 / 花礼来了)
+[89m] 🔥 [UNKNOWN] 嗯他会做饭。[UNKNOWN] 他会做饭。[UNKNOWN] 一。[UNKNOWN] 不给。[UNKNOWN] 好吧你这个金呢。[UNKNOWN] 血浓于血。[UNKNOWN] 哇。[UNKNOWN] 你是男的哥不行。[UNKNOWN] 还能换能换人不。[UNKNOWN] 我是不是要换个水宝。[UNKNOWN] 可梦才能去对面拿那么久  (💬 花礼(x7) / 问号啾(x5) / 我觉得这个可以取名叫花礼哈雷。。。 / 本本啾 / 有容mofu)
+[92m] ▫️ [UNKNOWN] 走咱们再上去。[UNKNOWN] 我去这个必须抓一只。[UNKNOWN] 转。[UNKNOWN] 你叫什么呢。[UNKNOWN] 你头顶尖尖的。[UNKNOWN] 好再加这个吧。[UNKNOWN] 很可惜哦。[UNKNOWN] 三心。[UNKNOWN] 啊这个我知道就是。[UNKNOWN] 会变成那个摇来摇去的树  (💬 🐢(x4) / 羽啾🐢2🐢(x4) / 问号啾 / 🐢🐢 / 山田啾)
+[94m] 🔥 [UNKNOWN] 完了你是草系。[UNKNOWN] 唉唉你不是草系吗。[UNKNOWN] 啊他是什么戏。[UNKNOWN] 他难都是岩石系什么的吗。[UNKNOWN] 喷。[UNKNOWN] 啊那没事了。[UNKNOWN] 吓死了。[UNKNOWN] 我记得他好像是那个进化了。[UNKNOWN] 嗯专门勾引别人的。[UNKNOWN] 起名字就是给他的  (💬 胡说树(x5) / 岩石 / 问号啾 / 小松绿 / 我觉得羽啾🐢2🐢就很好)
+[96m] 🔥 [UNKNOWN] 这是个很负责任的事情啊。[UNKNOWN] 嗯。[UNKNOWN] 怎么换人怎么换宝可梦都不出来。[UNKNOWN] 就说。[UNKNOWN] 是电一起来电鱼吧。[UNKNOWN] 排花小熊。[UNKNOWN] 百万小熊。[UNKNOWN] 百万小叔一起来炸鱼吧。[UNKNOWN] 溜溜糖球。[UNKNOWN] 他会产蜜呀  (💬 小松绿(x7) / 问号啾(x4) / 小松绿­ / ­小松绿 / 无辜啾)
+[98m] ▫️ [UNKNOWN] 所以你现在要被我关入冷宫。[UNKNOWN] 嗯不喜欢这个不软。[UNKNOWN] 百万小熊还是AZ。[UNKNOWN] 好了。[UNKNOWN] 肯定要邀请我。[UNKNOWN] 宝可梦对战了。[UNKNOWN] 长得都贼眉鼠眼的。[UNKNOWN] 眼睛都睁不开。[UNKNOWN] 我的天哪这七光西装裤这么紧  (💬 问号啾(x3) / 无辜啾 / fumo啾 / 应该抓出来榨蜜水的 / 66糖啾)
+[100m] 🔥 [UNKNOWN] 还穿你肯定是个零来的。[UNKNOWN] 绝对不能跟这种人说话。[UNKNOWN] 任何训练家战斗啊啊。[UNKNOWN] 什么让门口这个铁门。[UNKNOWN] 铁门见证战斗就是铁门战。[UNKNOWN] 什么勾引谁呢  (💬 iceb(x6) / 问号啾(x4) / 有点紧致了 / 下键。。。 / 眯眯眼来了)
+[102m] ▫️ [UNKNOWN] 我去为什么他有这个迪斯科球啊  (💬 问号啾 / 山田啾 / [主播女孩霓虹幻海动态表情_啊对对] / 这是钛晶电 / 氪金玩家来了)
+[103m] ▫️ [UNKNOWN] 放下面你们看不见地图啊。[UNKNOWN] 走。[UNKNOWN] 这儿比较好安稳。[UNKNOWN] 还是右下角好一点。[UNKNOWN] 啊必须去美容院啊。[UNKNOWN] 哎我看一下我手机。[UNKNOWN] 哎呀。[UNKNOWN] 他是要嗯怪不得没发呢  (💬 问号啾(x5) / 放我心上 / 放你头上 / fumo啾 / 放逐了吧)
+[110m] ▫️ [UNKNOWN] 帕奇丽枝呃是长这个吗。[UNKNOWN] 按ZL键可以锁定z瑶是哪个。[UNKNOWN] 在书店  (💬 fumo啾 / 没眼看啾 / call啾 / 我太强咯！ / 帕奇利兹可爱)
+[112m] ▫️ [UNKNOWN] Ceoou啊没问题啊。[UNKNOWN] 这个地方是卖什么。[UNKNOWN] 啊就看看去买衣服了。[UNKNOWN] 不行黑手有点太那个了  (💬 山田啾(x3) / 无辜啾 / 没眼看啾 / [主播女孩霓虹幻海动态表情_睡到晚上] / fumo啾)
+[116m] ▫️ [UNKNOWN] 时髦的帽子。[UNKNOWN] 小辫帽。[UNKNOWN] 啊无眼小辫帽是。[UNKNOWN] 嘘。[UNKNOWN] 呃有点贵你拿这个买吧。[UNKNOWN] 啊就这样吧。[UNKNOWN] 他本来不是很喜欢。[UNKNOWN] 但他是个小便帽你拿一下吧。[UNKNOWN] 你听到我狗叫了这种小狗吗  (💬 问号啾(x9) / 本本啾 / 山田啾 / 鼠啾 / call啾)
+[118m] 🔥 [UNKNOWN] 好看一百倍呀。[UNKNOWN] 咋办啊 我们要现在是葡萄学院。[UNKNOWN] 看一看这个校长的葡萄。[UNKNOWN] 看它是葡萄还是什么。[UNKNOWN] 是大葡萄还是小葡萄。[UNKNOWN] 是葡萄还是提子啊去看看吧。[UNKNOWN] 你是葡萄还是提子。[UNKNOWN] 我属于这个男的的头发  (💬 问号啾(x10) / 羞死了(x8) / 龙宫礼啾(x3) / 羞死了羞死了 / ？­)
+[118m] 🔥 [UNKNOWN] 唉这个男的的包好看。[UNKNOWN] 能把这个男的的包抢下来吗。[UNKNOWN] 我就你能把你抱给我吗。[UNKNOWN] 你是女的呀你穿裙子。[UNKNOWN] 包我能买吗。[UNKNOWN] 包我能我能买吗。[UNKNOWN] 我好喜欢这个包好可爱啊。[UNKNOWN] 不是宝可梦道馆。[UNKNOWN] 什么时候卖这个包啊  (💬 问号啾(x4) / 龙宫礼啾 / 说点我初中生听得懂的 / 本本啾 / 羞死了羞死了)
+[118m] 🔥 [UNKNOWN] 第一个买。[UNKNOWN] 静观  (💬 问号啾(x3) / 后面能买 / fumo啾 / 后面可以 / call啾)
+[119m] ▫️ [UNKNOWN] 这是什么对面的这个是什么呀  (💬 问号啾(x7) / 无辜啾(x4) / +6 / 现实中官方出个这个包 / 直接扔球，它反应不过来的)
+[121m] ▫️ [UNKNOWN] 但是机会难得就要用。[UNKNOWN] 道具把事情解决了吧。[UNKNOWN] 我只有两个蛋了。[UNKNOWN] 爱心化化成火鼠。[UNKNOWN] 信人我去这两个天星队的人遇到我。[UNKNOWN] 这是倒霉。[UNKNOWN] 啊这个衣服包包后面买不了嘛啊。[UNKNOWN] 不是站这么远干嘛  (💬 问号啾(x10) / 啥啾(x3) / 抱抱啾(x3) / 得意啾 / 无辜啾)
+[122m] 🔥 [UNKNOWN] 列阵前行。[UNKNOWN] 啊我要那个包子怎么丢泪。[UNKNOWN] 认出来了别丢这个。[UNKNOWN] 啊呵呵。[UNKNOWN] 看到很热笑。[UNKNOWN] 列阵前行哦凌兵斗主列阵前行。[UNKNOWN] 哎呦我的宝记错了记性不了。[UNKNOWN] 闪闪亮晶晶。[UNKNOWN] 爆比爆比爆比爆  (💬 问号啾(x10) / 无辜啾(x5) / 抱抱啾(x3) / 没眼看啾 / 本本啾)
+[123m] 🔥 [UNKNOWN] 总抬小心心了。[UNKNOWN] 唉我他不是要教我钛金化吗。[UNKNOWN] 我是不是忘记用了。[UNKNOWN] 还会成群结队的飙车。[UNKNOWN] 那个唉别骂我。[UNKNOWN] 我谢谢你们。[UNKNOWN] 你的包怎么那么处理我。[UNKNOWN] 哎呀。[UNKNOWN] 能不能把你的包出给我  (💬 问号啾(x10) / 龙宫礼啾(x6) / 啥啾(x6) / 抱抱啾(x5) / 鼠啾(x4))
+[123m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 口棍撇的舰长谢谢。[UNKNOWN] 哎呦我这今天一直打游戏。[UNKNOWN] 因为这个弹幕机要。[UNKNOWN] 是放在我这个主屏的话。[UNKNOWN] 我就会看不清。[UNKNOWN] 然后我丢副屏了。[UNKNOWN] 就不怎么看了。[UNKNOWN] 今天sorry了  (💬 龙宫礼啾(x8) / 无辜啾(x7) / 啥啾(x7) / 问号啾(x6) / 鼠啾(x4))
+[124m] 🔥 [UNKNOWN] 谢谢。[UNKNOWN] 我下播下播之前再单独卸一下。[UNKNOWN] 因为他这个因为他。[UNKNOWN] 这个竟然就是采集卡。[UNKNOWN] 他这个投屏就只能投全屏幕。[UNKNOWN] 所以所以而且他。[UNKNOWN] 这个投了全屏幕之后。[UNKNOWN] 它的优先级特别高。[UNKNOWN] 哎呦我还会转啊  (💬 龙宫礼啾(x9) / 无辜啾(x6) / 啥啾(x4) / 瓜甜啾(x4) / 鼠啾(x3))
+[124m] 🔥 [UNKNOWN] 所以所以这个弹幕。[UNKNOWN] 机今天放不到主屏。[UNKNOWN] 只能放分屏上。[UNKNOWN] 不好意思啊。[UNKNOWN] 弹幕今天好像有点看的有点少。[UNKNOWN] 我这还能转起来呀。[UNKNOWN] 淘宝真有这个背包。[UNKNOWN] 是那种自己拼团做的那种吗。[UNKNOWN] 哦这不是淫秽奶龙吗  (💬 无辜啾(x6) / 龙宫礼啾(x4) / 问号啾(x4) / 瓜甜啾(x3) / fumo啾(x3))
+[124m] 🔥 [UNKNOWN] 学校里有有什么。[UNKNOWN] 各种各样的人我以为要说什么呢。[UNKNOWN] 谢零一离一的健长。[UNKNOWN] 谢谢。[UNKNOWN] 这个好可爱哦。[UNKNOWN] 那个是那个。[UNKNOWN] 切完了一个字都想不起来。[UNKNOWN] 就那个什么什么什么狗。[UNKNOWN] 哎好可爱啊  (💬 问号啾(x3) / 喵啾 / 好宝宝。。。 / [主播女孩霓虹幻海动态表情_哈哈哈啪] / 什么乃龙？)
+[125m] 🔥 [UNKNOWN] 叫啥呀。[UNKNOWN] 一个是从小飞起来。[UNKNOWN] 哎呀哦哦演狗狗。[UNKNOWN] 不是那怎么有两个矮人啊。[UNKNOWN] 哎呦我去这个腰上别上别那个。[UNKNOWN] 什么小气球的这个校长来了完了。[UNKNOWN] 我不认识第一个字什么颜老人。[UNKNOWN] 什么人狼人啊  (💬 问号啾(x4) / 岩狗狗进化是鬃岩狼人 / 啥啾 / イワンコ / 本本啾)
+[126m] 🔥 [UNKNOWN] 跟那个双奶仙的进化一样吗。[UNKNOWN] 就是我玩剑盾的时候。[UNKNOWN] 我记得好像是什么双奶仙要进化。[UNKNOWN] 要那个摇摇杆。[UNKNOWN] 就是要顺时针的摇摇杆。[UNKNOWN] 然后逆时针的摇摇杆。[UNKNOWN] 然后给他搅成双奶双奶仙。[UNKNOWN] 然后好像还有那个什么什么草莓  (💬 问号啾(x6) / 呃呃 / 无辜啾 / 啥啾 / 对的)
+[126m] ▫️ [UNKNOWN] 我是铁铁。[UNKNOWN] 你看哎哎这小孩太小了。[UNKNOWN] 伊布的包包唉。[UNKNOWN] 是谁呢。[UNKNOWN] 必然的。[UNKNOWN] 他们都坐着我站着。[UNKNOWN] 艾露都有。[UNKNOWN] 这头发多久没洗了。[UNKNOWN] 这么。[UNKNOWN] 顶死你顶死你顶死你顶死你顶死你  (💬 问号啾(x5) / 本本啾(x5) / 无辜啾 / 狼人是白天黑夜黄昏进化 / 只是朋友。。。)
+[130m] 🔥 [UNKNOWN] 顶死你顶死你顶死你顶死你顶死你。[UNKNOWN] 顶死你顶死你顶死你顶死你顶死你。[UNKNOWN] 啊。[UNKNOWN] 啊小礼欧溜溜哒。[UNKNOWN] 神作出流。[UNKNOWN] 大车。[UNKNOWN] 看起来像神作初流似的。[UNKNOWN] 我真的很厉害吗。[UNKNOWN] 能不能悄悄的把老师  (💬 问号啾(x24) / ？？？？(x3) / 发狂了(x3) / 瓜甜啾 / 666)
+[131m] 🔥 [UNKNOWN] 的溜路给这个收入囊中。[UNKNOWN] 牛一下拿闪刀机的那个大皮鞭。[UNKNOWN] 开始直接给那个抽过来。[UNKNOWN] 你怎么知道我是玩闪刀姬的。[UNKNOWN] 楼上的寻宝成为冠军。[UNKNOWN] 可以啊可以啊我们去吧。[UNKNOWN] 我们lets go吧。[UNKNOWN] 那谁的经验就是你的打开拉莫诺  (💬 问号啾(x10) / 鼠啾(x4) / 没眼看啾 / 冠军什么？ / 黑话)
+[131m] 🔥 [UNKNOWN] ok不懂了。[UNKNOWN] 那我这次跟我在一起。[UNKNOWN] 的经验也是你的保护吧。[UNKNOWN] 我那你也想要我的经验。[UNKNOWN] 如果跟车y悠在一起的话。[UNKNOWN] 我还能变得更强。[UNKNOWN] 我是想想跟我在一起抓住未来了。[UNKNOWN] 懂我意思。[UNKNOWN] 道馆哦哦行  (💬 问号啾(x20) / 奇树(x9) / ？？(x3) / 鼠啾(x3) / 少看点(x3))
+[132m] 🔥 [UNKNOWN] 没问题的。[UNKNOWN] 不是我打这个蓝的。[UNKNOWN] 不是这个。[UNKNOWN] 那我看过他的本子。[UNKNOWN] 这个叫什么齐什么齐七笑什么。[UNKNOWN] 这叫啥呀。[UNKNOWN] 这个亮光道馆的这个叫啥。[UNKNOWN] 我操。[UNKNOWN] 我看我还没本子  (💬 问号啾(x24) / 奇树(x9) / 鼠啾(x4) / 少看点(x4) / 黑话)
+[132m] 🔥 [UNKNOWN] 秦叔对了。[UNKNOWN] 对了不找了。[UNKNOWN] 其说必胜大闪。[UNKNOWN] 啊恭喜你啊。[UNKNOWN] 按b。[UNKNOWN] 啊不堪忧。[UNKNOWN] 路凯利欧不是 刘露啊刘露。[UNKNOWN] 刘璐让我摸摸。[UNKNOWN] 为什么不给我摸摸不了。[UNKNOWN] 我忘不了  (💬 问号啾(x13) / 少看点(x3) / wflbb / 奇叔 / 奇树)
+[134m] ▫️ [UNKNOWN] 我让你。[UNKNOWN] 你要成为十级之灵。[UNKNOWN] 哦还真是我看你出现在食堂。[UNKNOWN] 好没听到BGM。[UNKNOWN] 那我就拉大点。[UNKNOWN] 刚哥刚刚好像动画的时候太卡了。[UNKNOWN] 知道让。[UNKNOWN] 最好别拉少拉了一拉拉了一格。[UNKNOWN] 还行还行  (💬 无辜啾 / [主播女孩霓虹幻海动态表情_跳绳] / 本本啾 / 电道馆用地面克制 / 哭啾)
+[135m] 🔥 [UNKNOWN] 只有帕迪亚才有。[UNKNOWN] 是是极其贵贵食材你想找的食材。[UNKNOWN] 那个是是吗。[UNKNOWN] 记错了。[UNKNOWN] 不是你们不觉得这个。[UNKNOWN] 岩壁堡主这个很很色情吗。[UNKNOWN] 哎也感觉好色情啊。[UNKNOWN] 这个图。[UNKNOWN] 就你就带一只珠子出拍差一下  (💬 啥啾(x3) / 问号啾(x3) / 瓜甜啾 / 那是阿罗拉的 / fumo啾)
+[136m] 🔥 [UNKNOWN] Ok啊。[UNKNOWN] 你们不觉得后面。[UNKNOWN] 那个餐牌特别咪咪吗。[UNKNOWN] 美味虾子。[UNKNOWN] 好考虑一下啊行啊。[UNKNOWN] 行啊 我会的我会的。[UNKNOWN] 不是很像咪咪。[UNKNOWN] 唉不是这个这个黑色的。[UNKNOWN] 这个叫什么来着  (💬 问号啾(x10) / 瓜甜啾 / 没眼看啾 / 延毕了 / ？？？)
+[137m] 🔥 [UNKNOWN] 黑色的那个叫。[UNKNOWN] 你知道天心对吧  (💬 问号啾(x4) / 喵啾 / 低调的黑客 / 异色路卡利欧只是把蓝色换成黄色 / 得意啾)
+[139m] 🔥 [UNKNOWN] 是两个脚着地的。[UNKNOWN] 本来现在是四个脚着地的。[UNKNOWN] 进化的是两个脚着地了 索罗亚。[UNKNOWN] 是索罗亚我刚说的叫阿尼。[UNKNOWN] 啊索罗亚克这个这个这个。[UNKNOWN] 爱你呀哈哈我依奈傻比西。[UNKNOWN] 我们去。[UNKNOWN] 现在是有什么要干的吗  (💬 索罗亚(x8) / ­索罗亚 / 进化是索罗亚克 / 本本啾 / 索罗亚克)
+[139m] ▫️ [UNKNOWN] 我啊还能这样转  (💬 想看宝可梦电影了 / 啥啾 / 在朱紫里野生的索罗亚还会变身 / 数学，惨了，这是你“强项” / 毽子头)
+[141m] ▫️ [UNKNOWN] 要不然再上上数学课吧。[UNKNOWN] 喂  (💬 问号啾(x5) / 本本啾 / 恰雷姆带有印度阿三元素 / ？？ / 传说阿尔宙斯里出现的地区形态)
+[143m] 🔥 [UNKNOWN] 脑袋卡住了。[UNKNOWN] 我去你呀。[UNKNOWN] 你还是算了吧。[UNKNOWN] 如果大家想和自己的。[UNKNOWN] 宝可梦跟人家相亲相爱的话。[UNKNOWN] 就把它哦我跟宝可梦真的生物课。[UNKNOWN] 我们俩之间应该有生殖隔离吧。[UNKNOWN] 小骚狸没有屁眼。[UNKNOWN] 呃哪里的操操室内好像不行吧啊  (💬 问号啾(x20) / 瓜甜啾(x3) / ？？ / 男的来了 / ？？？？)
+[143m] 🔥 [UNKNOWN] 不能带着宝可梦一起走的随便啊。[UNKNOWN] 这是室内吗。[UNKNOWN] 有个虫子飞过来了。[UNKNOWN] 唉虫子飞哪儿了。[UNKNOWN] 散称布。[UNKNOWN] 没有刚刚是打架的时候。[UNKNOWN] 好吧。[UNKNOWN] 我把那个我把白袜。[UNKNOWN] 白袜小熊放到第一个  (💬 问号啾 / 本本啾 / 没眼看啾 / 生物课是干这种事的地方吗 / ？？)
+[144m] ▫️ [UNKNOWN] 我就可以把白袜小熊整出整出来了。[UNKNOWN] 两百块钱可以买十个。[UNKNOWN] 啊。[UNKNOWN] 我没去过。[UNKNOWN] 想翘课了。[UNKNOWN] 那个这个这个这个这个。[UNKNOWN] 这个老太婆真的是老老太婆。[UNKNOWN] 老太婆不讲武。[UNKNOWN] 德王  (💬 有水栖宝可梦啊 / 无辜啾 / 炎武王原型是张飞和猪八戒 / 本本啾 / 啥啾)
+[145m] ▫️ [UNKNOWN] 下播滚吧翘课了。[UNKNOWN] 如果要单独披个雨衣。[UNKNOWN] 啊会诞生出宝可梦那个什么龙石兽。[UNKNOWN] 老师我也很开心的 Hello。[UNKNOWN] 我还以为唉我为什么不能啊。[UNKNOWN] 升职隔离。[UNKNOWN] 不对呀我也是。[UNKNOWN] 我其实我是百变怪  (💬 问号啾 / 鼠啾 / 本本啾 / 无辜啾 / 是的)
+[147m] 🔥 [UNKNOWN] 快点嘛赶紧上课吧。[UNKNOWN] 我你控住了没。[UNKNOWN] 屁眼怎么上单要找有屁眼的人  (💬 问号啾(x8) / 生殖隔离也能教培，只是不能生（ / onp / 这老师是纸巾，喜欢孵蛋 / 杯子)
+[148m] ▫️ [UNKNOWN] 还要太险啊我的妈呀。[UNKNOWN] 哦校长是白做体育。[UNKNOWN] 哼。[UNKNOWN] 我的妈。[UNKNOWN] 零终于看到一了。[UNKNOWN] 电影曲。[UNKNOWN] 二大的池。[UNKNOWN] 零五c三九三八零五。[UNKNOWN] 啊啊。[UNKNOWN] 八月五号生日的人要  (💬 大色魔 / 叫你去其他地方 / 这里不是要你上课 是要跟旁边机器讲话去别的房间 / 找校长吧 / 龙宫礼啾)
+[151m] 🔥 [UNKNOWN] 吸一下三月九十三号生日的人  (💬 问号啾(x8) / 本本啾(x6) / 得意啾(x4) / ？­ / ？？)
+[152m] 🔥 [UNKNOWN] 那个给那个喜欢吃饭野餐的那个梨。[UNKNOWN] 你说这怎么有个。[UNKNOWN] 我有个虫在天上飞。[UNKNOWN] 有虫在天上飞。[UNKNOWN] 可能是跟着我的那个什么。[UNKNOWN] 可能是跟着我的外卖一起进房间了。[UNKNOWN] 然后把它弄熟。[UNKNOWN] 嘎。[UNKNOWN] 哪有可梦问小熊  (💬 本本啾(x5) / slg(x4) / 得意啾(x4) / 无辜啾 / 问号啾)
+[153m] ▫️ [UNKNOWN] 别别对着我呗那虽然我是女t。[UNKNOWN] 但是但是嗯嗯好吧。[UNKNOWN] 景简老师让我陪你去宿舍好的。[UNKNOWN] ok看看我的房间吧。[UNKNOWN] 张吧。[UNKNOWN] 去然以后以后就住在这个房间了。[UNKNOWN] 不行啊。[UNKNOWN] 感觉床离那个微波炉太近了  (💬 问号啾(x11) / ？­ / 乃龙笑 / 那是肚子 / ???)
+[154m] 🔥 [UNKNOWN] 到时候万一这个这个。[UNKNOWN] 炸了给我炸死怎么办。[UNKNOWN] 天哪你你在我。[UNKNOWN] 你意思。[UNKNOWN] 怎么走了。[UNKNOWN] 我的妈呀被侄女骗了我去家人们。[UNKNOWN] 她是长得像长得像t的侄女啊。[UNKNOWN] 天哪。[UNKNOWN] 他侄女睡了  (💬 问号啾(x14) / 羽啾的🐢房(x3) / 说什么呢 / 羞死了 / ？？)
+[155m] 🔥 [UNKNOWN] 想让我睡觉啊。[UNKNOWN] 是不是刚刚不对。[UNKNOWN] 不不是这里。[UNKNOWN] 他从哪里进来的。[UNKNOWN] 他是他在这里进来的。[UNKNOWN] 没错我闻到她换鞋的味道啊。[UNKNOWN] 尼莫的脚脚啊啊你一摸。[UNKNOWN] 刚刚从这里进来的。[UNKNOWN] 啊呦尼莫的刚刚脱了鞋的味道  (💬 问号啾(x27) / 玛雅大姐(x8) / 够啾(x4) / 压抑了 / 羽啾的🐢房)
+[155m] 🔥 [UNKNOWN] 你默运动了一天小的脚。[UNKNOWN] 在这个鞋子里面闷出好多汗了。[UNKNOWN] 刚刚在门口换鞋子了。[UNKNOWN] 我就闻到了这个味道。[UNKNOWN] 现在还没有消散。[UNKNOWN] 真的太香了。[UNKNOWN] 天哪想把这个地毯拿起来。[UNKNOWN] 放到床上去。[UNKNOWN] 哇你们啊  (💬 问号啾(x16) / 玛雅大姐(x8) / 够啾(x4) / 压抑了 / 玛雅啾姐)
+[155m] 🔥 [UNKNOWN] 完了睡觉吧。[UNKNOWN] 哼一个滑铲。[UNKNOWN] 陈海幽来到葡萄身。[UNKNOWN] 然后我已经过了数日了。[UNKNOWN] 从葡萄进化成提子的。[UNKNOWN] 展开冒险的时候到了冒险时间到。[UNKNOWN] 叮咚当咚。[UNKNOWN] ok戴上我的小便帽嗯。[UNKNOWN] 这个直女真的是进入我的房间  (💬 玛雅大姐(x7) / 问号啾(x5) / 够啾 / 我的玛雅打劫 / 😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅😅)
+[157m] 🔥 [UNKNOWN] 我可是铁t啊。[UNKNOWN] 拔铲这什么这厕所吗。[UNKNOWN] 非脸。[UNKNOWN] 唉我去真是推给他来吧。[UNKNOWN] 操呃操场。[UNKNOWN] 微信。[UNKNOWN] 就像展示战利品一样。[UNKNOWN] 在腰上别了个球。[UNKNOWN] 太吓人了。[UNKNOWN] 这个校长真的是  (💬 问号啾(x11) / 😅😅😅😅😅(x3) / ？？？ / ？­ / 学生会长的特权)
+[157m] 🔥 [UNKNOWN] 不是别给这个。[UNKNOWN] 这个数学老师镜头了呗。[UNKNOWN] 我的妈呀这个屁股好大。[UNKNOWN] 这个是什么。[UNKNOWN] 这个他叫啥来着。[UNKNOWN] 什么力士什么哎呀。[UNKNOWN] 忘了。[UNKNOWN] 我还是主角吗。[UNKNOWN] 我要买西服穿啊  (💬 少看点把 / 什么时候拿下 / 还是白色的球。。 / 本本啾 / call啾)
+[159m] ▫️ [UNKNOWN] 呜。[UNKNOWN] 你能打我呀。[UNKNOWN] 那干嘛要要抓最大的宝可梦。[UNKNOWN] 那怎么又证明我体验过了呢。[UNKNOWN] 我也像我也像校长一样。[UNKNOWN] 这腰间盘要先夸几个气球。[UNKNOWN] 上真的。[UNKNOWN] 校长腰上排了六个气球。[UNKNOWN] 我整个十二个气球也排腰上  (💬 问号啾(x7) / 没裙子这代 / 鼠啾 / 无辜啾 / 这一代是这样的)
+[160m] 🔥 [UNKNOWN] 我能是冠军吗。[UNKNOWN] 那没事了不疑问了不疑问了。[UNKNOWN] 哇飘飘球好可爱。[UNKNOWN] 旁边有个泡泡球。[UNKNOWN] 那那俺的我多紧什么的我。[UNKNOWN] 我像上又能前往的一下基地。[UNKNOWN] 哦他们会使用和八恩派对名称。[UNKNOWN] 不长得丑死了  (💬 问号啾(x4) / 我要看到啾神挂6个气球的二创 / 鬼脑 / 别别别 / 说的是那种气球吗)
+[163m] ▫️ [UNKNOWN] 你太弱了。[UNKNOWN] 车儿游想去哪儿就去哪儿。[UNKNOWN] 我妈做的那个赛百味一下子。[UNKNOWN] 他还不吃你的呢  (💬 瓜甜啾(x3) / 问号啾 / 道馆的照片 / ？？ / 发道馆照片来了)
+[164m] ▫️ [UNKNOWN] 我的天啊学生生活这么忙。[UNKNOWN] 趁热肠怎么不吃。[UNKNOWN] 鹅。[UNKNOWN] 我要买衣服嗯。[UNKNOWN] 我们我们去这边探险吧  (💬 问号啾(x3) / call啾 / 太现充了 / 吉吉老师 / 双轮车hh)
+[168m] ▫️ [UNKNOWN] 你打劲。[UNKNOWN] 太紧张了紧张的蛋别打他  (💬 问号啾 / 嗯 进化是钢铠鸦 / 钢铠鸦特别牛逼 / 龙宫礼啾 / 啥啾)
+[169m] ▫️ [UNKNOWN] 嗯。[UNKNOWN] 不像猫热熊  (💬 问号啾 / 还真是 / 魔幻假面猫cos / 稚山雀高级进化是钢铠鸦 / 也是个什么0好像)
+[172m] ▫️ [UNKNOWN] 你你终于你终于这个。[UNKNOWN] 不做一只小小扫狗了。[UNKNOWN] 我很欣慰啊。[UNKNOWN] 嗯。[UNKNOWN] 他头顶有个有个有个有个珠子。[UNKNOWN] 那就叫他  (💬 问号啾(x13) / 咬住了 / 咬也没好到哪去 / 黑话 / 好怪哦)
+[174m] 🔥 [UNKNOWN] 什么是那么闪啊。[UNKNOWN] 那是啥呀。[UNKNOWN] 好傻啊。[UNKNOWN] 我先跑了吧。[UNKNOWN] 唉不用抓得了。[UNKNOWN] 唉你先别学很急啊。[UNKNOWN] 很急很急嗯  (💬 闪光(x5) / 问号啾(x3) / 保存 / 本本啾 / 哦哦)
+[177m] ▫️ [UNKNOWN] 后面有个百万  (💬 鼠啾 / 早已麻痹 / 太晶怪锁血的，直接打死然后抓 / 大胆打 / 抱抱啾)
+[179m] 🔥 [UNKNOWN] 你加入吧。[UNKNOWN] 把这个把这个鱼。[UNKNOWN] 把这个。[UNKNOWN] 呃你也是佛系的吧你滚吧。[UNKNOWN] 这是啥呀  (💬 问号啾(x4) / ？？？ / 猜到了 / omg / 主包是妖精系大师吗)
+[181m] 🔥 [UNKNOWN] Ok它中间有个棒子。[UNKNOWN] 哎呀。[UNKNOWN] 谁比较菜把谁换上这个。[UNKNOWN] 把你跟淫秽。[UNKNOWN] 你把淫秽的奶龙换成。[UNKNOWN] 淫秽奶龙。[UNKNOWN] 我是全女队啊。[UNKNOWN] 啊别撞到了。[UNKNOWN] 那个是不是他就打坏了。[UNKNOWN] 先去城里看看  (💬 问号啾(x4) / 羞死了(x3) / 邦邦硬 / 大绒棒 / ？？？)
+[183m] ▫️ [UNKNOWN] 哦我这个我知道你瞎按出来的。[UNKNOWN] 后排在哪呢。[UNKNOWN] 啊这。[UNKNOWN] 身体症。[UNKNOWN] 粉色一次。[UNKNOWN] 从这里出来的。[UNKNOWN] 这个坑好像是联击打的吧。[UNKNOWN] 看我这东西。[UNKNOWN] 还是那个什么进化了之后  (💬 问号啾(x3) / bo / call啾 / 右上角 / 对着右边点A)
+[188m] ▫️ [UNKNOWN] 那他是男刀哼。[UNKNOWN] 我俩分去了。[UNKNOWN] 虽那一只。[UNKNOWN] 我锣古韵。[UNKNOWN] 是我。[UNKNOWN] 就不会打死。[UNKNOWN] 直接猛攻。[UNKNOWN] 呃打错字了。[UNKNOWN] 不是他十几级啊他好强  (💬 蓝刀一直切 / OvO / 人家是狮子 / 男的来了 / 这不是狮子么)
+[193m] ▫️ [UNKNOWN] 不要发光  (💬 问号啾(x3) / 圣诞节抓一只 / 跳了 / 喜欢我明雷吗)
+[194m] ▫️ [UNKNOWN] 龙石兽。[UNKNOWN] 拜  (💬 叶绿素(x5) / 问号啾(x5) / 要不要打打怪练下级 / 史莱姆 / 叶绿素。。)
+[196m] ▫️ [UNKNOWN] 蹭蹭挣扎这么可爱  (💬 瓜甜啾 / 喜欢啾 / 这个厉害 / 厉害 / 羽啾到底爱不爱扫0)
+[198m] ▫️ [UNKNOWN] 我的我的少林所。[UNKNOWN] 这啥呀。[UNKNOWN] 我去这也太丑了吧  (💬 随时回忆太方便了 / 无辜啾 / 龙宫礼啾 / call啾 / 这个姿势总感觉像在烧烤)
+[199m] ▫️ [UNKNOWN] 嗯这个感觉没有。[UNKNOWN] 一。[UNKNOWN] 你知道这个不。[UNKNOWN] 可以。[UNKNOWN] 嗯。[UNKNOWN] 这个是这个是用补替的。[UNKNOWN] 身体证。[UNKNOWN] 是不是走回来了。[UNKNOWN] 我们去升体镇吧。[UNKNOWN] 道馆徽章走到道馆去  (💬 问号啾(x8) / ygfn / 啥啾 / 四姐小羊 / ？？？)
+[202m] 🔥 [UNKNOWN] 哇唱好高  (💬 问号啾 / 啥啾 / 龙宫礼啾 / 怨影娃娃 / 丈育)
+[204m] ▫️ [UNKNOWN] 骗人。[UNKNOWN] 这个你就叫这个吧。[UNKNOWN] 都是都是四个字的。[UNKNOWN] 你知道这个了。[UNKNOWN] 唉这个好可爱。[UNKNOWN] 黑暗牙。[UNKNOWN] 凯蒂狗。[UNKNOWN] 我去你真安装。[UNKNOWN] 不是不都闪三下了吗。[UNKNOWN] 三下应该被人抓了吧  (💬 羞死了(x6) / 问号啾(x5) / 无辜啾 / 点点我的 / 怨影娃娃适合当杯子)
+[207m] 🔥 [UNKNOWN] 我给你换个球吧。[UNKNOWN] 我给你换个球吧。[UNKNOWN] 你这个球喜欢吗。[UNKNOWN] 宝宝你喜欢这个球吗。[UNKNOWN] 我去你。[UNKNOWN] 耶。[UNKNOWN] 空中西游。[UNKNOWN] 一点钟。[UNKNOWN] 宁死不屈。[UNKNOWN] 上面那个东东是不是好可爱  (💬 抱抱啾(x5) / 啥啾 / 48 / 越难抓就越强 / 区了)
+[208m] 🔥 [UNKNOWN] 活多久了。[UNKNOWN] 这个我都知道了。[UNKNOWN] 我看出来了。[UNKNOWN] 我们抓一只凯蒂狗下播吧。[UNKNOWN] 为什么不是。[UNKNOWN] 救救我空调诚太郎。[UNKNOWN] 凯蒂狗呢  (💬 抱抱啾(x10) / okok / 啾啾 / 宁死不屈！ / 黑暗鸦看着小但不是宝宝捕获率会低一点)
+[210m] 🔥 [UNKNOWN] 是什么。[UNKNOWN] 卡蒂狗。[UNKNOWN] 他们卡到他的小弟弟了。[UNKNOWN] 说明什么呢。[UNKNOWN] 说明他的。[UNKNOWN] 卡到了这小弟弟的说明是差的很大。[UNKNOWN] 你知道大英懂了吧。[UNKNOWN] 啊你看我戏太多了。[UNKNOWN] 你先别进来  (💬 问号啾(x24) / 本本啾(x4) / ？？？(x3) / ？­(x3) / 无辜啾)
+[211m] 🔥 [UNKNOWN] 喂我还想要那个艾夜丫。[UNKNOWN] 没电了。[UNKNOWN] 好像这正那正好了。[UNKNOWN] 先下播吧。[UNKNOWN] 哎呀我们来谢谢一下。[UNKNOWN] 这个今天的super ct吧。[UNKNOWN] 哈等一下啊。[UNKNOWN] 我说谢谢熬夜的。[UNKNOWN] 给我逮住了二的舰长  (💬 问号啾(x4) / 玩挺大 / 羞死了 / 羽啾原话：大丁狗，（）太多了，你先别进来 / 你先别进来 这句可以3-1)
+[212m] 🔥 [UNKNOWN] 可更别离舰长灵异灵异的舰长。[UNKNOWN] 谢谢。[UNKNOWN] 然后今天谢谢银河漂流。[UNKNOWN] 飞鸟骄傲努力的亲密之旅。[UNKNOWN] 吃块菜哈。[UNKNOWN] 喜欢狗电鱼忧郁的是被拆了。[UNKNOWN] 牙我给你们看牙牙。[UNKNOWN] chat。[UNKNOWN] chat  (💬 问号啾(x6) / 下播了好舒服 / 保存 / 为什么你不底座模式 / 无辜啾)
+[213m] ▫️ [UNKNOWN] 谢空不羁的chasuper叉叉啊。[UNKNOWN] 谢谢宇宙。[UNKNOWN] 谢谢瑞瑶的super chat。[UNKNOWN] 谢谢水缘之间的super chat。[UNKNOWN] 不觉得月影娃娃适合当杯子吗。[UNKNOWN] 等着把月影娃娃改成宇宙猫了。[UNKNOWN] 但是我想把宇宙猫  (💬 问号啾(x15) / 鼠啾 / ？？ / 有振翼发 / 宇宙猫连夜进化出嘴)
+[214m] 🔥 [UNKNOWN] 改成给给梦妖用啊。[UNKNOWN] 就这个这这一座有梦妖吗。[UNKNOWN] 谢零元的super恰。[UNKNOWN] 今天天的啥啥意思。[UNKNOWN] 什么今天的份啊。[UNKNOWN] 然后今天的的份的份啊啊。[UNKNOWN] 谢你的这个。[UNKNOWN] 谢谢零零圆的super  (💬 问号啾(x15) / ？？ / 有振翼发 / 无辜啾 / 委屈啾)
+[214m] 🔥 [UNKNOWN] 恰ina爱利一个歌曲。[UNKNOWN] ok看一下吧。[UNKNOWN] 三十三十块的宝贝儿。[UNKNOWN] 三十块钱的薯拍颤了。[UNKNOWN] 看一下吧。[UNKNOWN] 嗯动了。[UNKNOWN] 啊这个就是一首歌。[UNKNOWN] 那直接后台放着。[UNKNOWN] 然后谢谢DRXD的super  (💬 问号啾(x4) / 晚安晚安(x3) / 8888 / 有振翼发 / 无辜啾)
+[214m] 🔥 [UNKNOWN] 叉卡给你充电 Ok了。[UNKNOWN] 马上那个充电表情包就出来了。[UNKNOWN] 今天只有那么下步吧。[UNKNOWN] 二十次。[UNKNOWN] 昨天。[UNKNOWN] 啊这。[UNKNOWN] 大礼走火系太都过了。[UNKNOWN] 你身题今日没有没有小哥哥。[UNKNOWN] 速祖速你的高有一天  (💬 喵啾(x4) / 88(x3) / 无辜啾(x3) / 晚安晚安(x3) / 8888)
+[215m] 🔥 [UNKNOWN] 跳到。[UNKNOWN] 呼吸就走你读到。[UNKNOWN] 确定你我。[UNKNOWN] 不可以可可以可以都可以。[UNKNOWN] You know  (💬 委屈啾(x6) / 喵啾 / 瓜甜啾 / call啾 / 88)
